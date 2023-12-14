@@ -1,0 +1,771 @@
+,Team,Position,Status,Height,Weight,College,Experience,Active,PositionCategory,Name,Age,ExperienceString,Salary,CMP%,PassingYards,PassingYardsPerGame,PassingTouchDowns,RecievingYards,AvgRecievingYards,ReceivingTouchdowns,RecievingYardsPerGame,RushingYards,RushingTouchDowns,RushingYardsPerGame,SoloTackles,AssistedTackles,TotalTackles
+0,KC,DT,Active,77,292,UCLA,5,True,DEF,Matt Dickerson,28,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,6.0,12.0
+1,NE,DL,Active,77,300,Northwest Missouri State,2,True,DEF,Sam Roberts,25,2nd Season,957869,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+2,CLE,DT,Active,75,325,Alabama,7,True,DEF,Dalvin Tomlinson,29,7th Season,14250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,13.0,20.0
+3,CHI,DT,Active,75,309,North Carolina State,6,True,DEF,Justin Jones,27,6th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,12.0,34.0
+4,GB,S,Active,71,198,Maryland,5,True,DEF,Darnell Savage,26,5th Season,3129422,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,12.0,38.0
+5,LAR,LB,Active,74,230,South Carolina,3,True,DEF,Ernest Jones,24,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,55.0,53.0,108.0
+7,CLE,DE,Active,76,272,Texas A&M,7,True,DEF,Myles Garrett,27,7th Season,25000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,8.0,32.0
+8,LV,DT,Active,75,327,Georgia,11,True,DEF,John Jenkins,34,11th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,29.0,47.0
+9,NYJ,DL,Active,74,265,Auburn,7,True,DEF,Carl Lawson,28,7th Season,15000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,3.0,4.0
+10,LAR,OLB,Active,74,275,Florida State,2,True,DEF,Keir Thomas,25,2nd Season,705000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+11,TB,OLB,Active,73,240,Charlotte,0,True,DEF,Markees Watts,24,Rookie,898333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+12,LAC,DB,Active,72,195,Mississippi,2,True,DEF,Deane Leonard,24,2nd Season,939916,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,20.0,6.0,26.0
+14,NO,S,Active,69,201,Oregon,5,True,DEF,Ugo Amadi,26,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+15,BAL,OLB,Active,78,258,Mississippi,0,True,DEF,Tavius Robinson,24,Rookie,1140141,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,7.0,17.0
+16,NYG,ILB,Active,74,232,Indiana,2,True,DEF,Micah McFadden,23,2nd Season,1003927,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,29.0,74.0
+17,LV,DE,Active,74,235,Nevada,5,True,DEF,Malik Reed,27,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+18,BUF,CB,Active,71,192,Weber State,6,True,DEF,Taron Johnson,27,6th Season,8000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,46.0,16.0,62.0
+19,NYG,DL,Active,77,320,Arizona State,2,True,DEF,D.J. Davidson,24,2nd Season,1003529,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,7.0,11.0
+20,CHI,DB,Active,71,200,California,2,True,DEF,Elijah Hicks,24,2nd Season,934252,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,14.0,33.0
+21,DEN,CB,Active,71,195,Pittsburgh,2,True,DEF,Damarri Mathis,24,2nd Season,1109741,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,9.0,35.0
+22,NYG,CB,Active,71,185,USC,7,True,DEF,Adoree' Jackson,28,7th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,7.0,36.0
+23,GB,LB,Active,77,277,Michigan,5,True,DEF,Rashan Gary,26,5th Season,24000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,17.0,34.0
+24,PHI,CB,Active,72,190,Mississippi State,11,True,DEF,Darius Slay,32,11th Season,14000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,8.0,53.0
+25,HOU,LB,Active,73,226,Alabama,2,True,DEF,Christian Harris,22,2nd Season,1337062,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,36.0,23.0,59.0
+26,ATL,OLB,Active,76,269,Kentucky,9,True,DEF,Bud Dupree,30,9th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,17.0,30.0
+27,KC,DE,Active,76,263,Purdue,2,True,DEF,George Karlaftis,22,2nd Season,2983868,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,16.0,37.0
+29,IND,CB,Injured Reserve,73,196,Pittsburg State (KS),2,True,DEF,Dallis Flowers,26,2nd Season,855000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,4.0,15.0
+30,JAX,CB,Active,71,190,Vanderbilt,6,True,DEF,Tre Herndon,27,6th Season,2582000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,12.0,38.0
+31,CHI,CB,Active,71,190,Mississippi,2,True,DEF,Jaylon Jones,26,2nd Season,854167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+32,DET,CB,Active,71,203,Arkansas,3,True,DEF,Jerry Jacobs,26,3rd Season,809500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,6.0,53.0
+33,LAR,DB,Active,72,190,Georgia,2,True,DEF,Derion Kendrick,23,2nd Season,948004,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,7.0,41.0
+34,HOU,DE,Active,74,254,TCU,14,True,DEF,Jerry Hughes,35,14th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,5.0,23.0
+35,LAR,OLB,Active,74,250,Tennessee,0,True,DEF,Byron Young,25,Rookie,1417178,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,16.0,50.0
+36,CAR,CB,Active,70,180,LSU,5,True,DEF,Donte Jackson,28,5th Season,11726667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,6.0,43.0
+37,DEN,OLB,Active,75,240,Oklahoma,2,True,DEF,Nik Bonitto,24,2nd Season,1450473,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,7.0,26.0
+38,DAL,DT,Active,74,320,Ohio State,11,True,DEF,Johnathan Hankins,31,11th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,13.0,26.0
+39,LAC,OLB,Injured Reserve,77,280,Ohio State,8,True,DEF,Joey Bosa,28,8th Season,27000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,6.0,20.0
+40,KC,LB,Active,75,236,South Dakota,2,True,DEF,Jack Cochrane,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,4.0,17.0
+41,KC,DT,Active,73,280,Missouri S&T,4,True,DEF,Tershawn Wharton,25,4th Season,2025000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,6.0,11.0
+42,DAL,DE,Active,77,268,Iowa,3,True,DEF,Chauncey Golston,25,3rd Season,1229147,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,10.0,15.0
+43,LV,LB,Active,73,229,Western Michigan,5,True,DEF,Robert Spillane,28,5th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,55.0,50.0,105.0
+44,DAL,S,Active,74,212,Ohio State,7,True,DEF,Malik Hooker,27,7th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,20.0,43.0
+45,LAR,OLB,Active,74,250,Tennessee,0,True,DEF,Byron Young,25,Rookie,1417178,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+46,NYJ,LB,Active,75,255,Memphis,4,True,DEF,Bryce Huff,25,4th Season,4304000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,8.0,21.0
+47,CAR,LB,Active,75,235,Washington State,6,True,DEF,Frankie Luvu,27,6th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,51.0,39.0,90.0
+48,DEN,DE,Active,75,291,Wisconsin,2,True,DEF,Matt Henningsen,24,2nd Season,955520,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,5.0,12.0
+49,ARI,OLB,Active,75,253,Penn State,2,True,DEF,Jesse Luketa,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,6.0,9.0
+50,ARI,S,Active,71,190,Washington State,5,True,DEF,Jalen Thompson,25,5th Season,12000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,15.0,62.0
+51,PIT,DT,Active,76,304,Auburn,7,True,DEF,Montravius Adams,28,7th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,12.0,23.0
+52,LV,S,Active,76,205,USC,2,True,DEF,Isaiah Pola-Mao,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,6.0,14.0
+53,NYG,OLB,Active,77,258,Oregon,2,True,DEF,Kayvon Thibodeaux,23,2nd Season,7834760,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,15.0,36.0
+55,KC,S,Active,70,205,Kentucky,5,True,DEF,Mike Edwards,27,5th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,11.0,28.0
+56,PHI,DE,Active,74,265,Michigan,14,True,DEF,Brandon Graham,35,14th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,3.0,10.0
+57,GB,LB,Active,76,241,Georgia,2,True,DEF,Quay Walker,23,2nd Season,3460410,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,45.0,92.0
+58,JAX,LB,Active,74,230,Yale,6,True,DEF,Foyesade Oluokun,28,6th Season,15000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,85.0,46.0,131.0
+59,HOU,DE,Non Football Injury,76,275,TCU,0,True,DEF,Dylan Horton,23,Rookie,1160259,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+60,CLE,CB,Active,71,191,Northwestern,0,True,DEF,Cameron Mitchell,22,Rookie,1044308,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,1.0,9.0
+61,ATL,S,Active,72,200,Central Florida,3,True,DEF,Richie Grant,26,3rd Season,2067091,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,49.0,26.0,75.0
+62,DET,DL,Active,75,335,Alabama,5,True,DEF,Isaiah Buggs,27,5th Season,2250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+63,NO,DT,Active,76,315,Fort Hays State,6,True,DEF,Nathan Shepherd,30,6th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,19.0,32.0
+64,TEN,LB,Injured Reserve,74,232,Mississippi,2,True,DEF,Chance Campbell,24,2nd Season,892500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+65,NE,LB,Active,75,230,Sacramento State,0,True,DEF,Marte Mapu,24,Rookie,1390927,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,5.0,14.0
+66,CIN,DT,Active,76,290,Florida,2,True,DEF,Zach Carter,24,2nd Season,1269985,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,11.0,15.0
+67,NO,DE,Active,79,289,Villanova,7,True,DEF,Tanoh Kpassagnon,29,7th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,5.0,9.0
+68,CIN,CB,Active,70,190,Utah State,4,True,DEF,Jalen Davis,27,4th Season,1215000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+69,NYJ,DL,Active,76,288,Stephen F. Austin,6,True,DEF,John Franklin-Myers,27,6th Season,13750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,13.0,24.0
+70,ATL,DL,Active,80,282,Miami (FL),16,True,DEF,Calais Campbell,37,16th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,19.0,37.0
+71,DAL,CB,Active,70,195,Michigan,7,True,DEF,Jourdan Lewis,28,7th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,9.0,32.0
+72,PIT,S,Injured Reserve,72,205,Army,3,True,DEF,Elijah Riley,25,3rd Season,695000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,6.0,9.0
+73,WAS,CB,Active,75,200,Minnesota,3,True,DEF,Benjamin St-Juste,26,3rd Season,1275188,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,11.0,56.0
+74,DAL,CB,Active,72,190,South Carolina,12,True,DEF,Stephon Gilmore,33,12th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,9.0,41.0
+75,KC,LB,Active,74,227,Indiana,0,True,DEF,Cam Jones,24,Rookie,903333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+76,SEA,DE,Active,75,281,Ohio State,5,True,DEF,Dre'Mont Jones,26,5th Season,17176667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,14.0,30.0
+77,CLE,DT,Active,76,303,Missouri,4,True,DEF,Jordan Elliott,26,4th Season,1147108,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,5.0,16.0
+78,KC,CB,Active,73,192,Louisiana Tech,4,True,DEF,L'Jarius Sneed,26,4th Season,982330,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,14.0,56.0
+79,CIN,DE,Active,77,270,Clemson,0,True,DEF,Myles Murphy,21,Rookie,3146816,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,4.0,12.0
+80,HOU,CB,Active,71,194,Oregon State,9,True,DEF,Steven Nelson,30,9th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,35.0,11.0,46.0
+81,DET,S,Active,73,203,Illinois,2,True,DEF,Kerby Joseph,23,2nd Season,1261226,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,9.0,53.0
+82,KC,DB,Active,72,206,Virginia Tech,0,True,DEF,Chamarri Conner,23,Rookie,1147842,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,2.0,15.0
+83,HOU,CB,Active,69,190,New Mexico,3,True,DEF,D'Angelo Ross,27,3rd Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+84,PHI,S,Injured Reserve,72,199,Texas A&M,5,True,DEF,Justin Evans,28,5th Season,1590000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,6.0,15.0
+85,WAS,S,Active,74,198,Arkansas,4,True,DEF,Kamren Curl,24,4th Season,852082,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,64.0,33.0,97.0
+86,NE,DB,Active,69,192,Washington,4,True,DEF,Myles Bryant,25,4th Season,2627000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,52.0,10.0,62.0
+87,PIT,DE,Active,76,290,Texas A&M,2,True,DEF,DeMarvin Leal,23,2nd Season,1296724,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,5.0,15.0
+88,PIT,CB,Active,73,203,LSU,13,True,DEF,Patrick Peterson,33,13th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,6.0,33.0
+89,TEN,CB,Active,71,197,LSU,4,True,DEF,Kristian Fulton,25,4th Season,1332548,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,9.0,46.0
+90,NO,S,Active,72,205,Mississippi State,5,True,DEF,Johnathan Abram,27,5th Season,1162500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,7.0,10.0
+91,PHI,LB,Active,74,230,South Carolina State,6,True,DEF,Shaquille Leonard,28,6th Season,1583300,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,31.0,65.0
+92,LAC,LB,Active,75,244,Iowa,3,True,DEF,Nick Niemann,26,3rd Season,923501,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,11.0,23.0
+93,HOU,S,Active,71,198,Baylor,2,True,DEF,Jalen Pitre,24,2nd Season,2238610,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,40.0,15.0,55.0
+94,NYJ,CB,Active,69,188,Kansas State,6,True,DEF,D.J. Reed,27,6th Season,11000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,49.0,8.0,57.0
+95,BAL,ILB,Active,74,238,Clemson,0,True,DEF,Trenton Simpson,22,Rookie,1352211,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,0.0,3.0
+96,LV,DT,Active,75,292,Alabama,0,True,DEF,Byron Young,23,Rookie,1417178,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+97,ATL,DL,Active,76,294,Texas,3,True,DEF,Ta'Quon Graham,25,3rd Season,957653,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,9.0,14.0
+98,SEA,CB,Active,72,185,Illinois,0,True,DEF,Devon Witherspoon,23,Rookie,7965288,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,46.0,19.0,65.0
+99,LAC,LB,Active,73,225,Washington State,0,True,DEF,Daiyan Henley,24,Rookie,1355105,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+100,DEN,DL,Active,75,328,Wyoming,8,True,DEF,Mike Purcell,32,8th Season,3833333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,8.0,13.0
+101,PIT,S,Active,74,222,Southern Utah State,8,True,DEF,Miles Killebrew,30,8th Season,2000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,1.0,14.0
+102,NYG,S,Active,73,190,Iowa,2,True,DEF,Dane Belton,23,2nd Season,1111122,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,10.0,20.0
+103,ARI,ILB,Active,74,229,UCLA,4,True,DEF,Krys Barnes,25,4th Season,1035000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,11.0,32.0
+104,GB,LB,Active,77,272,Iowa,0,True,DEF,Lukas Van Ness,22,Rookie,4347023,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,3.0,20.0
+105,ATL,DL,Injured Reserve,77,280,Western Illinois,3,True,DEF,LaCale London,26,3rd Season,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,3.0,4.0
+106,DEN,CB,Active,72,190,Central Arkansas,6,True,DEF,Tremon Smith,27,6th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+107,PIT,LB,Active,76,242,Charlotte,4,True,DEF,Alex Highsmith,26,4th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,22.0,49.0
+108,CHI,DE,Active,77,253,Miami (OH),2,True,DEF,Dominique Robinson,25,2nd Season,983289,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,5.0,8.0
+109,TEN,S,Active,71,205,Clemson,4,True,DEF,K'Von Wallace,26,4th Season,1000278,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,19.0,61.0
+110,NYG,CB,Active,73,193,Notre Dame,3,True,DEF,Nick McCloud,25,3rd Season,882500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,4.0,13.0
+111,BUF,DE,Active,76,260,Syracuse,2,True,DEF,Kingsley Jonathan,25,2nd Season,929250,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+112,CLE,LB,Active,74,221,Notre Dame,3,True,DEF,Jeremiah Owusu-Koramoah,24,3rd Season,1619054,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,46.0,24.0,70.0
+113,MIA,CB,Active,73,196,Texas-El Paso,5,True,DEF,Nik Needham,27,5th Season,1825000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+114,TEN,DT,Active,76,305,Mississippi State,5,True,DEF,Jeffery Simmons,26,5th Season,23500000,0.0,0,0.0,0.0,2,2.0,1.0,0.2,0,0.0,0.0,30.0,14.0,44.0
+115,NE,LB,Active,75,240,Michigan,4,True,DEF,Josh Uche,25,4th Season,1347334,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+116,CAR,S,Active,71,190,Florida State,0,True,DEF,Jammie Robinson,22,Rookie,1042383,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,5.0,15.0
+117,LV,DT,Active,75,292,Alabama,0,True,DEF,Byron Young,23,Rookie,1417178,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,16.0,50.0
+118,WAS,DB,Active,72,195,Illinois,0,True,DEF,Jartavius Martin,23,Rookie,1909455,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,10.0,22.0
+119,TB,S,Active,72,212,Iowa,0,True,DEF,Kaevon Merriweather,23,Rookie,903333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,3.0,10.0
+120,CIN,LB,Active,72,238,Oklahoma State,2,True,DEF,Devin Harper,25,2nd Season,959380,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+121,TB,OLB,Active,75,240,Wagner,4,True,DEF,Cam Gill,26,4th Season,965000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,4.0,7.0
+122,PHI,CB,Active,73,210,Samford,8,True,DEF,James Bradberry,30,8th Season,12666667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,9.0,36.0
+123,NO,DB,Active,72,202,Mississippi State,6,True,DEF,J.T. Gray,27,6th Season,3366667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,5.0,8.0
+124,MIN,S,Active,73,188,LSU,0,True,DEF,Jay Ward,23,Rookie,1123386,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,3.0,6.0
+125,JAX,OLB,Active,77,272,Georgia,2,True,DEF,Travon Walker,22,2nd Season,9343155,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,19.0,33.0
+126,GB,CB,Active,72,189,Kentucky,0,True,DEF,Carrington Valentine,22,Rookie,985176,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,6.0,27.0
+127,TB,S,Active,70,200,Rutgers,0,True,DEF,Christian Izien,23,Rookie,901667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,13.0,46.0
+128,CLE,DE,Active,76,270,Kentucky,9,True,DEF,Za'Darius Smith,31,9th Season,11710000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,9.0,22.0
+129,CAR,LB,Active,73,222,LSU,8,True,DEF,Deion Jones,29,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,8.0,21.0
+130,LV,DE,Active,78,275,Texas Tech,0,True,DEF,Tyree Wilson,23,Rookie,6251374,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,10.0,20.0
+131,SEA,FS,Active,69,197,Texas,9,True,DEF,Quandre Diggs,30,9th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,20.0,67.0
+132,LAC,S,Injured Reserve,71,192,Indiana,2,True,DEF,Raheem Layne,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+133,LAC,DL,Active,76,314,Penn State,8,True,DEF,Austin Johnson,29,8th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,15.0,28.0
+134,BAL,ILB,Active,72,230,LSU,4,True,DEF,Patrick Queen,24,4th Season,3040418,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,67.0,35.0,102.0
+135,LAC,LB,Active,72,232,UCLA,9,True,DEF,Eric Kendricks,31,9th Season,6625000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,53.0,23.0,76.0
+136,IND,DE,Active,76,225,Florida A&M,0,True,DEF,Isaiah Land,23,Rookie,900000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+137,BUF,LB,Active,75,250,Texas A&M,13,True,DEF,Von Miller,34,13th Season,20000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+138,NE,CB,Injured Reserve,74,205,Oregon,0,True,DEF,Christian Gonzalez,21,Rookie,3775717,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,3.0,17.0
+139,LAC,S,Active,74,193,Baylor,2,True,DEF,JT Woods,23,2nd Season,1319111,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,0.0,5.0
+140,LAC,CB,Active,74,196,Brigham Young,7,True,DEF,Michael Davis,28,7th Season,8400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,36.0,6.0,42.0
+141,LAR,OLB,Active,77,260,Nebraska,0,True,DEF,Ochaun Mathis,24,Rookie,1005616,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+142,BAL,OLB,Active,77,266,South Carolina,10,True,DEF,Jadeveon Clowney,30,10th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,11.0,30.0
+143,BAL,NT,Active,72,355,Samford,7,True,DEF,Michael Pierce,31,7th Season,5500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,12.0,28.0
+144,SEA,SS,Active,73,213,LSU,6,True,DEF,Jamal Adams,28,6th Season,17645000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,13.0,44.0
+145,LAC,DL,Active,76,310,Samford,9,True,DEF,Nick Williams,33,9th Season,1230000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,13.0,26.0
+146,LAC,S,Active,70,201,Notre Dame,4,True,DEF,Alohi Gilman,26,4th Season,870801,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,17.0,54.0
+147,MIN,DL,Active,75,307,Stanford,6,True,DEF,Harrison Phillips,27,6th Season,6500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,34.0,68.0
+148,NYG,CB,Active,74,200,Maryland,0,True,DEF,Deonte Banks,22,Rookie,3394849,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,35.0,8.0,43.0
+149,NYJ,DL,Active,74,256,Stanford,7,True,DEF,Solomon Thomas,28,7th Season,2350000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,13.0,23.0
+150,HOU,CB,Active,70,205,Ferris State,6,True,DEF,Tavierre Thomas,27,6th Season,2250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,21.0,50.0
+151,NE,LB,Active,75,255,Alabama,4,True,DEF,Anfernee Jennings,25,4th Season,1149218,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,13.0,46.0
+152,PHI,LB,Active,74,248,Tulane,3,True,DEF,Patrick Johnson,24,3rd Season,896469,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,0.0,3.0
+153,ATL,CB,Active,73,195,Clemson,4,True,DEF,A.J. Terrell,25,4th Season,3576437,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,7.0,32.0
+154,BUF,DT,Active,75,313,Virginia Tech,6,True,DEF,Tim Settle,26,6th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+155,IND,DT,Active,74,282,Northwestern,0,True,DEF,Adetomiwa Adebawore,22,Rookie,1159227,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+156,MIN,OLB,Active,78,256,Army,0,True,DEF,Andre Carter II,23,Rookie,911667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+157,SEA,DE,Active,77,300,USC,9,True,DEF,Leonard Williams,29,9th Season,21000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,13.0,35.0
+158,HOU,DT,Active,74,305,Louisville,8,True,DEF,Sheldon Rankins,29,8th Season,9750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,7.0,28.0
+159,TEN,S,Active,71,210,Iowa,5,True,DEF,Amani Hooker,25,5th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,2,0.0,0.2,57.0,15.0,72.0
+160,IND,CB,Active,74,203,Texas A&M,0,True,DEF,Jaylon Jones,21,Rookie,988370,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+161,ARI,ILB,Active,73,230,Maryland,5,True,DEF,Josh Woods,27,5th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,25.0,56.0
+162,SEA,S,Active,71,195,Notre Dame,5,True,DEF,Julian Love,25,5th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,57.0,26.0,83.0
+163,DEN,DL,Active,77,295,Lindenwood,3,True,DEF,Jonathan Harris,27,3rd Season,952500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,15.0,37.0
+164,BAL,DE,Active,79,309,Virginia,10,True,DEF,Brent Urban,32,10th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,4.0,17.0
+165,DEN,DT,Active,72,305,Mississippi,6,True,DEF,D.J. Jones,28,6th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,10.0,28.0
+166,DET,CB,Active,71,184,Arizona State,2,True,DEF,Chase Lucas,26,2nd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+167,CLE,S,Active,72,205,Virginia,5,True,DEF,Juan Thornhill,28,5th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,38.0,12.0,50.0
+168,IND,DE,Active,75,245,Eastern Washington,7,True,DEF,Samson Ebukam,28,7th Season,8000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,10.0,42.0
+169,DAL,DE,Active,75,261,Florida,9,True,DEF,Dante Fowler Jr.,29,9th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+170,TEN,OLB,Active,76,259,Pittsburgh,3,True,DEF,Rashad Weaver,26,3rd Season,1034916,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,6.0,13.0
+171,IND,CB,Active,74,203,Texas A&M,0,True,DEF,Jaylon Jones,21,Rookie,854167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+172,PHI,DT,Active,75,314,Georgia,0,True,DEF,Jalen Carter,22,Rookie,5451504,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,10.0,26.0
+173,SF,DL,Active,79,290,Oregon,9,True,DEF,Arik Armstead,30,9th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,12.0,27.0
+174,SEA,LB,Active,72,236,Army,3,True,DEF,Jon Rhattigan,24,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+175,NO,DE,Active,77,261,Wyoming,5,True,DEF,Carl Granderson,26,5th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,25.0,57.0
+176,MIA,LB,Active,77,270,South Florida,14,True,DEF,Jason Pierre-Paul,34,14th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+177,IND,CB,Active,74,203,Texas A&M,0,True,DEF,Jaylon Jones,21,Rookie,988370,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,5.0,17.0
+178,GB,LB,Active,73,230,Cincinnati,7,True,DEF,Eric Wilson,29,7th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,11.0,23.0
+179,DET,CB,Active,71,189,Georgia Southern,4,True,DEF,Kindle Vildor,26,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+180,NE,LB,Active,74,255,Hawaii,5,True,DEF,Jahlani Tavai,27,5th Season,2200000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,49.0,38.0,87.0
+181,MIN,S,Active,71,207,Michigan,4,True,DEF,Josh Metellus,25,4th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,31.0,81.0
+182,IND,CB,Active,74,203,Texas A&M,0,True,DEF,Jaylon Jones,21,Rookie,854167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,5.0,17.0
+183,TB,DB,Active,71,200,Miami (FL),3,True,DEF,Dee Delaney,28,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,4.0,15.0
+184,ARI,ILB,Active,72,225,Auburn,0,True,DEF,Owen Pappoe,23,Rookie,1021244,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,4.0,4.0
+185,DAL,LB,Active,75,245,Penn State,3,True,DEF,Micah Parsons,24,3rd Season,4269948,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,19.0,42.0
+186,LV,DE,Active,77,255,Eastern Michigan,5,True,DEF,Maxx Crosby,26,5th Season,23500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,39.0,27.0,66.0
+187,PIT,CB,Active,74,193,Penn State,0,True,DEF,Joey Porter Jr.,23,Rookie,2404586,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,10.0,37.0
+188,LV,S,Active,72,191,Wyoming,5,True,DEF,Marcus Epps,27,5th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,15.0,47.0
+189,LV,DT,Active,77,300,Vanderbilt,7,True,DEF,Adam Butler,29,7th Season,1550000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,8.0,18.0
+190,MIN,G,Active,75,307,LSU,2,True,OFF,Ed Ingram,24,2nd Season,1499496,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+191,GB,CB,Active,70,200,South Carolina,5,True,DEF,Keisean Nixon,26,5th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,11,0.0,0.9,40.0,13.0,53.0
+192,MIN,LB,Active,74,230,Utah State,8,True,DEF,Nick Vigil,30,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+193,DAL,S,Active,76,205,South Carolina,3,True,DEF,Israel Mukuamu,24,3rd Season,902677,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+194,SF,DE,Active,77,264,Ohio State,4,True,DEF,Chase Young,24,4th Season,8640899,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,4.0,18.0
+195,BUF,S,Active,72,208,Washington,5,True,DEF,Taylor Rapp,25,5th Season,1770000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,9.0,28.0
+196,ARI,CB,Injured Reserve,76,205,Norfolk State,4,True,DEF,Bobby Price,25,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+197,CIN,S,Active,71,200,Penn State,5,True,DEF,Nick Scott,28,5th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,22.0,54.0
+198,GB,S,Active,71,210,Missouri Western State,5,True,DEF,Jonathan Owens,28,5th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,38.0,15.0,53.0
+199,HOU,DT,Injured Reserve,75,305,Texas,8,True,DEF,Hassan Ridgeway,29,8th Season,3250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,5.0,6.0
+200,IND,S,Active,72,212,Maryland,2,True,DEF,Nick Cross,22,2nd Season,1266410,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,2.0,14.0
+201,DAL,DE,Active,76,261,Mississippi,2,True,DEF,Sam Williams,24,2nd Season,1631686,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,9.0,18.0
+202,DET,DB,Active,72,203,Alabama,0,True,DEF,Brian Branch,22,Rookie,2005433,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,39.0,19.0,58.0
+203,IND,LB,Active,72,235,Syracuse,6,True,DEF,Zaire Franklin,27,6th Season,3333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,80.0,50.0,130.0
+204,KC,DT,Active,73,317,Florida State,6,True,DEF,Derrick Nnadi,27,6th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,11.0,21.0
+205,JAX,S,Active,72,210,Syracuse,3,True,DEF,Andre Cisco,23,3rd Season,1309125,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,35.0,18.0,53.0
+206,NE,DB,Active,74,222,Lenoir-Rhyne,4,True,DEF,Kyle Dugger,27,4th Season,2082976,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,54.0,27.0,81.0
+207,ATL,DL,Active,74,287,North Carolina State,5,True,DEF,Kentavius Street,27,5th Season,1280000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,7.0,15.0
+208,SF,LB,Active,75,233,Vanderbilt,6,True,DEF,Oren Burks,28,6th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,12.0,37.0
+209,CLE,S,Active,75,208,LSU,4,True,DEF,Grant Delpit,25,4th Season,1866266,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,16.0,74.0
+210,LV,DT,Active,78,295,Notre Dame,5,True,DEF,Jerry Tillery,27,5th Season,3400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,12.0,21.0
+211,MIA,LB,Active,74,236,Georgia,2,True,DEF,Channing Tindall,23,2nd Season,1261227,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+212,HOU,S,Injured Reserve,71,200,North Carolina,6,True,DEF,M.J. Stewart,28,6th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,9.0,22.0
+213,DET,DL,Injured Reserve,74,315,North Carolina State,3,True,DEF,Alim McNeill,23,3rd Season,1282297,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,15.0,31.0
+214,PHI,S,Active,71,212,Middle Tennessee State,8,True,DEF,Kevin Byard,30,8th Season,12550000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,57.0,32.0,89.0
+215,CIN,S,Injured Reserve,74,209,Toledo,2,True,DEF,Tycen Anderson,25,2nd Season,991521,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+216,DEN,OLB,Active,76,257,Ohio State,3,True,DEF,Jonathon Cooper,25,3rd Season,895168,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,26.0,58.0
+217,CAR,DT,Active,77,320,Auburn,4,True,DEF,Derrick Brown,25,4th Season,5905351,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,27.0,64.0
+218,ATL,CB,Active,70,189,Central Florida,6,True,DEF,Mike Hughes,26,6th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,5.0,10.0
+219,DET,CB,Active,71,180,Tennessee,7,True,DEF,Cameron Sutton,28,7th Season,11000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,9.0,38.0
+220,CHI,DE,Active,74,246,Maryland,8,True,DEF,Yannick Ngakoue,28,8th Season,10500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,7.0,19.0
+221,ATL,CB,Active,70,183,Utah,0,True,DEF,Clark Phillips III,21,Rookie,1153382,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,0.0,5.0
+222,SEA,DT,Active,75,304,Mississippi State,0,True,DEF,Cameron Young,23,Rookie,1141877,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,4.0,11.0
+223,DAL,DE,Active,76,255,Kansas,6,True,DEF,Dorance Armstrong,26,6th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,15.0,28.0
+224,GB,LB,Active,77,265,Mississippi State,9,True,DEF,Preston Smith,31,9th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,17.0,40.0
+225,TB,OLB,Active,79,271,Iowa,5,True,DEF,Anthony Nelson,26,5th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,12.0,25.0
+226,DEN,ILB,Active,77,233,Arkansas,0,True,DEF,Drew Sanders,21,Rookie,1433682,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,5.0,12.0
+227,MIN,CB,Active,74,198,Missouri,2,True,DEF,Akayleb Evans,24,2nd Season,1105269,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,36.0,13.0,49.0
+228,MIN,DL,Active,75,305,LSU,0,True,DEF,Jaquelin Roy,23,Rookie,1044943,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,5.0,8.0
+229,CAR,CB,Active,73,200,South Carolina,3,True,DEF,Jaycee Horn,24,3rd Season,5278037,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+230,SEA,LB,Active,72,240,Texas Tech,4,True,DEF,Jordyn Brooks,26,4th Season,3058902,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,54.0,42.0,96.0
+231,DET,DL,Active,77,330,Western Kentucky,0,True,DEF,Brodric Martin,24,Rookie,1326022,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+232,WAS,DE,Active,76,257,Arizona,0,True,DEF,Jalen Harris,24,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+233,DAL,S,Active,75,205,Florida A&M,2,True,DEF,Markquese Bell,24,2nd Season,858333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,24.0,65.0
+234,PIT,LB,Active,75,230,Fresno State,4,True,DEF,Mykal Walker,26,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,8.0,20.0
+235,CIN,DE,Active,76,270,Florida Atlantic,7,True,DEF,Trey Hendrickson,29,7th Season,21000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,11.0,32.0
+236,PIT,CB,Active,72,179,Alabama,6,True,DEF,Levi Wallace,28,6th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+237,BAL,OLB,Active,77,257,Penn State,3,True,DEF,Odafe Oweh,25,3rd Season,2835598,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,3.0,18.0
+238,LAR,DT,Active,73,280,Pittsburgh,10,True,DEF,Aaron Donald,32,10th Season,31666667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,21.0,43.0
+239,HOU,S,Injured Reserve,70,187,Baylor,4,True,DEF,Grayland Arnold,26,4th Season,952500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+240,MIA,CB,Active,72,195,Presbyterian,12,True,DEF,Justin Bethel,33,12th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,4.0,16.0
+241,LV,DE,Active,75,250,Buffalo,3,True,DEF,Malcolm Koonce,25,3rd Season,1249490,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,8.0,26.0
+242,BAL,S,Active,73,207,Utah,7,True,DEF,Marcus Williams,27,7th Season,14000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,10.0,24.0
+243,BAL,DT,Active,75,305,Texas A&M,4,True,DEF,Justin Madubuike,26,4th Season,1213327,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,10.0,37.0
+244,NE,DL,Active,77,315,Alabama,3,True,DEF,Christian Barmore,24,3rd Season,2130561,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,13.0,34.0
+245,NYG,OLB,Active,77,285,Illinois,8,True,DEF,Jihad Ward,29,8th Season,1500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,5.0,16.0
+246,JAX,DT,Active,76,335,Ohio State,4,True,DEF,DaVon Hamilton,26,4th Season,11500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,2.0,2.0
+247,NE,DB,Injured Reserve,68,188,Houston,2,True,DEF,Marcus Jones,25,2nd Season,1294238,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,1.0,5.0
+248,DEN,CB,Active,72,198,UCLA,7,True,DEF,Fabian Moreau,29,7th Season,1300000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,8.0,24.0
+249,NO,LB,Active,73,233,Appalachian State,2,True,DEF,D'Marco Jackson,25,2nd Season,994229,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,4.0,6.0
+250,WAS,S,Active,72,191,Louisiana-Lafayette,2,True,DEF,Percy Butler,23,2nd Season,1112254,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,18.0,49.0
+251,NO,CB,Injured Reserve,72,192,Ohio State,7,True,DEF,Marshon Lattimore,27,7th Season,19520600,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,39.0,9.0,48.0
+252,ARI,DL,Active,76,295,Texas-San Antonio,5,True,DEF,Kevin Strong,27,5th Season,1156250,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,16.0,37.0
+253,ARI,OLB,Active,72,232,Sioux Falls,6,True,DEF,Dennis Gardeck,29,6th Season,3333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,30.0,9.0,39.0
+254,BUF,CB,Injured Reserve,71,192,LSU,7,True,DEF,Tre'Davious White,28,7th Season,17250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,2.0,12.0
+255,TEN,LB,Active,75,243,Nebraska,5,True,DEF,Luke Gifford,28,5th Season,2000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+256,LAC,LB,Active,72,231,Oklahoma State,3,True,DEF,Amen Ogbongbemiga,25,3rd Season,813333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+257,SEA,NT,Active,75,306,Alabama,8,True,DEF,Jarran Reed,31,8th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,18.0,41.0
+258,ATL,ILB,Active,74,238,Idaho,5,True,DEF,Kaden Elliss,28,5th Season,7166667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,27.0,85.0
+259,BAL,OLB,Injured Reserve,76,265,Michigan,2,True,DEF,David Ojabo,23,2nd Season,1977280,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+260,SEA,CB,Active,73,210,Miami (FL),4,True,DEF,Michael Jackson,26,4th Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,2.0,14.0
+261,DET,DL,Active,76,255,Notre Dame,8,True,DEF,Romeo Okwara,28,8th Season,12333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,6.0,8.0
+262,WAS,LB,Injured Reserve,72,245,Arkansas,2,True,DEF,De'Jon Harris,26,2nd Season,660000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+263,ARI,CB,Active,70,194,Alabama-Birmingham,0,True,DEF,Starling Thomas V,23,Rookie,905000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,1.0,15.0
+264,TB,LB,Active,73,233,Nebraska,12,True,DEF,Lavonte David,33,12th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,32.0,90.0
+265,LV,CB,Active,70,190,Wyoming,3,True,DEF,Tyler Hall,25,3rd Season,895000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,4.0,17.0
+266,PIT,CB,Active,71,189,Georgia State,6,True,DEF,Chandon Sullivan,27,6th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,7.0,16.0
+267,DAL,DT,Active,74,280,UCLA,3,True,DEF,Osa Odighizuwa,25,3rd Season,1271548,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,14.0,39.0
+268,CIN,LB,Active,74,245,Wyoming,4,True,DEF,Logan Wilson,27,4th Season,9000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,63.0,34.0,97.0
+269,JAX,DL,Active,77,290,Texas-El Paso,7,True,DEF,Roy Robertson-Harris,30,7th Season,7200000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,15.0,24.0
+270,TB,ILB,Active,73,225,Memphis,2,True,DEF,J.J. Russell,25,2nd Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+271,SEA,LB,Injured Reserve,74,251,USC,6,True,DEF,Uchenna Nwosu,26,6th Season,15000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,4.0,16.0
+272,PIT,DT,Active,75,305,Charlotte,7,True,DEF,Larry Ogunjobi,29,7th Season,9583333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,17.0,33.0
+273,PHI,LB,Active,72,216,Greenville,6,True,DEF,Nicholas Morrow,28,6th Season,1155000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,15.0,56.0
+274,SF,DB,Active,70,200,Oregon,3,True,DEF,Deommodore Lenoir,24,3rd Season,941218,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,20.0,64.0
+275,WAS,S,Active,71,202,Utah,4,True,DEF,Terrell Burgess,25,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,3.0,7.0
+276,JAX,S,Active,72,200,Wyoming,5,True,DEF,Andrew Wingard,27,5th Season,3200000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,20.0,8.0,28.0
+277,CIN,LB,Active,74,235,Michigan State,4,True,DEF,Joe Bachie,25,4th Season,1160000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,3.0,3.0
+278,ARI,OLB,Active,74,262,Duke,3,True,DEF,Victor Dimukeje,24,3rd Season,910465,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,9.0,27.0
+279,DEN,S,Active,74,202,Boston College,8,True,DEF,Justin Simmons,30,8th Season,15250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,13.0,45.0
+280,LV,CB,Active,72,195,Illinois,3,True,DEF,Nate Hobbs,24,3rd Season,945763,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,40.0,19.0,59.0
+281,PIT,LB,Active,74,260,Missouri,9,True,DEF,Markus Golden,32,9th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,2.0,11.0
+282,JAX,LB,Active,73,234,Louisville,0,True,DEF,Yasir Abdullah,23,Rookie,1051304,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+283,NE,WR,Active,72,205,UCLA,16,True,OFF,Matthew Slater,38,16th Season,2667500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+285,CIN,S,Active,73,210,Alabama,0,True,DEF,Jordan Battle,23,Rookie,1331254,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,15.0,39.0
+286,LAR,DB,Active,69,180,TCU,0,True,DEF,Tre Tomlinson,23,Rookie,1009963,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,2.0,12.0
+287,IND,LB,Active,71,230,Houston,3,True,DEF,Grant Stuard,25,3rd Season,889061,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+288,SF,CB,Active,72,190,Michigan,3,True,DEF,Ambry Thomas,24,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,7.0,31.0
+289,NE,DB,Active,73,198,Maryland,6,True,DEF,J.C. Jackson,28,6th Season,16500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,3.0,28.0
+290,CIN,DE,Active,76,263,Texas,3,True,DEF,Joseph Ossai,23,3rd Season,1298154,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+291,LAR,DE,Active,77,275,Weber State,3,True,DEF,Jonah Williams,28,3rd Season,882500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,24.0,38.0
+292,TB,CB,Active,74,199,Sam Houston State,2,True,DEF,Zyon McCollum,24,2nd Season,995433,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,11.0,42.0
+293,JAX,DE,Active,76,285,Oklahoma State,0,True,DEF,Tyler Lacy,24,Rookie,1131781,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,5.0,8.0
+294,BUF,LB,Active,74,230,Tulane,0,True,DEF,Dorian Williams,22,Rookie,1368202,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,14.0,35.0
+295,NYJ,DL,Injured Reserve,76,309,LSU,13,True,DEF,Al Woods,36,13th Season,2250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+296,NYJ,DL,Active,75,303,Alabama,5,True,DEF,Quinnen Williams,25,5th Season,24000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,19.0,48.0
+297,JAX,CB,Active,73,195,Georgia,3,True,DEF,Tyson Campbell,23,3rd Season,2253776,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,14.0,40.0
+298,JAX,CB,Active,72,190,Arkansas,2,True,DEF,Montaric Brown,24,2nd Season,943995,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,8.0,22.0
+299,PHI,LB,Active,75,238,Vanderbilt,7,True,DEF,Zach Cunningham,29,7th Season,1775000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,24.0,71.0
+300,BUF,S,Active,72,191,Oregon State,11,True,DEF,Jordan Poyer,32,11th Season,6250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,25.0,70.0
+301,LAC,OLB,Active,77,248,Oregon,5,True,DEF,Justin Hollins,27,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,4.0,10.0
+302,LV,DT,Active,75,292,Alabama,0,True,DEF,Byron Young,23,Rookie,1389167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+303,MIA,DB,Active,71,200,Northern Iowa,4,True,DEF,Elijah Campbell,28,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+304,MIN,DT,Active,73,294,Notre Dame,8,True,DEF,Sheldon Day,29,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+305,DET,DL,Active,75,290,Washington,3,True,DEF,Levi Onwuzurike,25,3rd Season,2037223,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+306,DET,LB,Injured Reserve,73,245,Jackson State,2,True,DEF,James Houston,25,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+307,WAS,DE,Active,76,265,North Carolina State,4,True,DEF,James Smith-Williams,26,4th Season,848175,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,8.0,14.0
+308,SEA,LB,Injured Reserve,71,228,North Carolina State,0,True,DEF,Drake Thomas,23,Rookie,903333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+309,CAR,S,Active,71,200,Louisiana Tech,7,True,DEF,Xavier Woods,28,7th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,18.0,39.0
+310,NYG,S,Active,72,200,Pittsburgh,3,True,DEF,Jason Pinnock,24,3rd Season,937613,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,43.0,22.0,65.0
+311,BUF,CB,Active,69,183,Buffalo,4,True,DEF,Cam Lewis,26,4th Season,1185000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,4.0,12.0
+312,JAX,LB,Active,74,220,Houston Christian,3,True,DEF,Caleb Johnson,25,3rd Season,810667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+313,HOU,S,Active,71,195,Northern Illinois,10,True,DEF,Jimmie Ward,32,10th Season,6500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,14.0,40.0
+314,BUF,CB,Active,73,205,Villanova,2,True,DEF,Christian Benford,23,2nd Season,963569,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,7.0,34.0
+315,TEN,OLB,Active,76,263,Tulsa,4,True,DEF,Trevis Gipson,26,4th Season,1250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,5.0,6.0
+316,BAL,CB,Active,71,193,Florida State,9,True,DEF,Ronald Darby,29,9th Season,1700000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,2.0,18.0
+317,DAL,CB,Injured Reserve,75,190,California (PA),8,True,DEF,C.J. Goodwin,33,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+318,DAL,CB,Active,71,197,Auburn,4,True,DEF,Noah Igbinoghene,24,4th Season,2813553,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0
+319,CAR,S,Active,75,220,Southern Illinois,4,True,DEF,Jeremy Chinn,25,4th Season,1310368,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,8.0,23.0
+320,CLE,CB,Active,71,190,Ohio State,6,True,DEF,Denzel Ward,26,6th Season,20100000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,4.0,29.0
+321,SEA,OLB,Active,75,254,Auburn,0,True,DEF,Derick Hall,22,Rookie,2278895,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,15.0,26.0
+322,CAR,DE,Active,76,305,Houston,3,True,DEF,Nick Thurman,28,3rd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,8.0,15.0
+323,TB,S,Active,69,203,Minnesota,4,True,DEF,Antoine Winfield Jr.,25,4th Season,1826796,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,53.0,36.0,89.0
+324,NE,DB,Active,73,210,Texas,2,True,DEF,Brenden Schooler,26,2nd Season,858333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,2.0,12.0
+325,LAR,OLB,Active,74,250,Tennessee,0,True,DEF,Byron Young,25,Rookie,1389167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+326,ARI,DT,Injured Reserve,77,334,Utah,4,True,DEF,Leki Fotu,25,4th Season,1017118,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,10.0,25.0
+327,CHI,DE,Active,76,279,USC,6,True,DEF,Rasheem Green,26,6th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,6.0,11.0
+328,SF,CB,Active,73,196,Middle Tennessee State,6,True,DEF,Charvarius Ward,27,6th Season,13500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,12.0,56.0
+329,DEN,CB,Active,72,193,Iowa,0,True,DEF,Riley Moss,23,Rookie,1361872,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+330,LAR,DE,Active,75,252,Toledo,0,True,DEF,Desjuan Johnson,24,Rookie,979444,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+331,BAL,LB,Active,74,230,Illinois,4,True,DEF,Del'Shawn Phillips,27,4th Season,1110000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,5.0,7.0
+332,SF,S,Injured Reserve,73,202,Central Arkansas,6,True,DEF,George Odum,30,6th Season,3166667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,6.0,12.0
+333,TEN,DB,Active,68,174,Louisiana-Lafayette,0,True,DEF,Eric Garror,23,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,2.0,12.0
+334,BUF,DT,Active,73,287,Houston,5,True,DEF,Ed Oliver,26,5th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,14.0,40.0
+335,PIT,LB,Active,74,240,Wisconsin,0,True,DEF,Nick Herbig,22,Rookie,1128230,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,6.0,21.0
+336,SF,LB,Active,71,227,TCU,0,True,DEF,Dee Winters,23,Rookie,993334,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+337,NE,LB,Active,75,231,Idaho,2,True,DEF,Christian Elliss,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,8.0,21.0
+338,HOU,DT,Active,74,310,Nebraska,8,True,DEF,Maliek Collins,28,8th Season,11500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,15.0,26.0
+339,LAR,DB,Active,70,195,Kansas State,2,True,DEF,Russ Yeast,24,2nd Season,934252,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,21.0,48.0
+340,JAX,S,Active,73,200,Miami (FL),7,True,DEF,Rayshawn Jenkins,29,7th Season,8750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,25.0,72.0
+341,PHI,LB,Active,74,238,Georgia,0,True,DEF,Nolan Smith,22,Rookie,2998102,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,2.0,9.0
+342,MIA,CB,Active,73,203,Ohio State,8,True,DEF,Eli Apple,28,8th Season,1600000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,5.0,31.0
+343,PIT,S,Injured Reserve,72,211,Florida,8,True,DEF,Keanu Neal,28,8th Season,2125000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,17.0,50.0
+344,NYG,CB,Active,75,195,Old Dominion,0,True,DEF,Tre Hawkins III,23,Rookie,997380,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,10.0,29.0
+345,NYG,DL,Active,76,330,Alabama,8,True,DEF,A'Shawn Robinson,28,8th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,19.0,36.0
+346,CLE,LB,Active,73,238,Brigham Young,5,True,DEF,Sione Takitaki,28,5th Season,2430000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,10.0,33.0
+347,NYJ,CB,Active,73,202,Virginia,4,True,DEF,Bryce Hall,26,4th Season,902701,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+348,NO,LB,Active,72,228,Utah,1,True,DEF,Nephi Sewell,24,1st Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,4.0,14.0
+349,ARI,DT,Active,74,318,Arizona,3,True,DEF,Roy Lopez,26,3rd Season,1002500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,15.0,30.0
+350,CHI,DB,Active,73,200,Penn State,2,True,DEF,Jaquan Brisker,24,2nd Season,1838885,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,26.0,63.0
+351,MIA,LB,Active,73,227,LSU,7,True,DEF,Duke Riley,29,7th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,9.0,18.0
+352,GB,CB,Active,71,196,Washburn,5,True,DEF,Corey Ballentine,27,5th Season,1140000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,12.0,35.0
+353,NO,DL,Injured Reserve,75,290,Texas,4,True,DEF,Malcolm Roach,25,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,25.0,38.0
+354,ARI,RB,Active,68,201,North Carolina,3,True,OFF,Michael Carter,24,3rd Season,952232,0.0,0,0.0,0.0,83,4.4,0.0,7.5,82,0.0,7.5,1.0,0.0,1.0
+355,PIT,DT,Active,77,307,Arkansas,5,True,DEF,Armon Watts,27,5th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,8.0,11.0
+356,DEN,S,Active,70,202,Texas,4,True,DEF,P.J. Locke,26,4th Season,1400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,7.0,23.0
+357,IND,DT,Active,76,291,Florida,6,True,DEF,Taven Bryan,27,6th Season,3510000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,5.0,17.0
+358,TB,DL,Active,73,312,Washington,5,True,DEF,Greg Gaines,27,5th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,12.0,17.0
+359,TB,CB,Active,73,206,Auburn,5,True,DEF,Jamel Dean,27,5th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,36.0,12.0,48.0
+360,NO,S,Injured Reserve,72,207,Florida,7,True,DEF,Marcus Maye,30,7th Season,7500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,10.0,37.0
+361,CHI,DE,Active,78,262,Mississippi State,5,True,DEF,Montez Sweat,27,5th Season,24500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,13.0,39.0
+362,SF,LB,Active,74,223,Arizona,4,True,DEF,Demetrius Flannigan-Fowles,27,4th Season,1885000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+363,LAR,NT,Active,74,288,Wake Forest,0,True,DEF,Kobie Turner,24,Rookie,1347869,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,23.0,47.0
+364,SF,DL,Active,73,285,Penn State,4,True,DEF,Kevin Givens,26,4th Season,2100000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,5.0,10.0
+365,CHI,CB,Active,71,190,Mississippi,2,True,DEF,Jaylon Jones,26,2nd Season,988370,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+366,BUF,LB,Active,72,237,Texas A&M,4,True,DEF,Tyrel Dodson,25,4th Season,2010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,10.0,47.0
+367,ARI,CB,Active,70,181,Louisville,0,True,DEF,Kei'Trel Clark,22,Rookie,1012153,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,6.0,43.0
+368,NO,DB,Active,72,209,Minnesota,0,True,DEF,Jordan Howden,23,Rookie,1041682,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,11.0,21.0
+369,MIA,CB,Active,70,193,Texas A&M-Commerce,2,True,DEF,Kader Kohou,25,2nd Season,863333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,43.0,11.0,54.0
+370,CIN,LB,Active,73,235,Purdue,4,True,DEF,Markus Bailey,26,4th Season,852174,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+371,WAS,DT,Active,76,312,Alabama,2,True,DEF,Phidarian Mathis,25,2nd Season,1876593,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+372,SF,OLB,Active,77,242,Nebraska,6,True,DEF,Randy Gregory,31,6th Season,14000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,5.0,14.0
+373,ARI,ILB,Injured Reserve,74,234,West Virginia,6,True,DEF,Kyzir White,27,6th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,53.0,37.0,90.0
+374,KC,CB,Active,71,193,Washington,2,True,DEF,Trent McDuffie,22,2nd Season,3498121,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,15.0,62.0
+375,GB,LB,Active,73,227,Boston College,3,True,DEF,Isaiah McDuffie,24,3rd Season,902677,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,23.0,68.0
+376,TEN,LB,Active,74,228,Florida Atlantic,5,True,DEF,Azeez Al-Shaair,26,5th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,57.0,57.0,114.0
+377,NE,DB,Active,71,217,Michigan,7,True,DEF,Jabrill Peppers,28,7th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,46.0,23.0,69.0
+378,MIN,LB,Active,75,225,Oregon,4,True,DEF,Troy Dye,27,4th Season,993395,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,4.0,11.0
+379,NO,LB,Active,72,233,Georgia,3,True,DEF,Monty Rice,24,3rd Season,1212215,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,12.0,26.0
+380,DEN,DE,Active,77,285,Boston College,5,True,DEF,Zach Allen,26,5th Season,15250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,25.0,48.0
+381,NE,DE,Active,77,290,Georgia Tech,0,True,DEF,Keion White,24,Rookie,1947540,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,9.0,18.0
+382,PHI,DT,Active,78,336,Georgia,2,True,DEF,Jordan Davis,23,2nd Season,4252320,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,22.0,32.0
+383,DET,CB,Active,73,206,Boston College,5,True,DEF,Will Harris,27,5th Season,2582500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+384,MIN,LB,Injured Reserve,73,236,Texas,9,True,DEF,Jordan Hicks,31,9th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,37.0,87.0
+385,GB,DL,Active,75,296,Bowling Green,0,True,DEF,Karl Brooks,23,Rookie,1013007,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,5.0,14.0
+386,CHI,LB,Active,72,240,Missouri State,7,True,DEF,Dylan Cole,29,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+388,CAR,DT,Active,75,300,Tennessee,5,True,DEF,Shy Tuttle,28,5th Season,6500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,17.0,28.0
+389,LAR,DB,Active,74,203,Ohio State,4,True,DEF,Jordan Fuller,25,4th Season,866428,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,29.0,73.0
+390,BAL,CB,Active,73,197,Alabama,2,True,DEF,Jalyn Armour-Davis,24,2nd Season,1105082,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+391,KC,CB,Active,74,197,Washington State,2,True,DEF,Jaylen Watson,25,2nd Season,936343,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,3.0,20.0
+392,IND,DE,Active,75,265,Michigan,3,True,DEF,Kwity Paye,25,3rd Season,3411208,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,15.0,39.0
+393,CAR,LB,Injured Reserve,75,230,Auburn,2,True,DEF,Chandler Wooten,25,2nd Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,6.0,8.0
+394,ARI,CB,Active,72,191,Florida,3,True,DEF,Marco Wilson,24,3rd Season,1032595,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,11.0,52.0
+395,CHI,LB,Active,74,234,Wisconsin,2,True,DEF,Jack Sanborn,23,2nd Season,855833,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,39.0,22.0,61.0
+396,BUF,CB,Injured Reserve,73,191,Florida,2,True,DEF,Kaiir Elam,22,2nd Season,3422702,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,4.0,14.0
+397,PHI,CB,Injured Reserve,69,184,Pittsburgh,6,True,DEF,Avonte Maddox,27,6th Season,7500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+398,CAR,OLB,Active,77,265,Penn State,4,True,DEF,Yetur Gross-Matos,25,4th Season,2049702,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,9.0,18.0
+399,LAC,DB,Active,70,185,Wake Forest,2,True,DEF,Ja'Sir Taylor,24,2nd Season,948003,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,4.0,27.0
+400,DET,LB,Active,77,243,Iowa,0,True,DEF,Jack Campbell,23,Rookie,3680501,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,35.0,25.0,60.0
+401,NYJ,CB,Active,70,175,Kentucky,3,True,DEF,Brandin Echols,26,3rd Season,913546,0.0,0,0.0,0.0,18,18.0,0.0,2.0,0,0.0,0.0,6.0,4.0,10.0
+402,JAX,LB,Active,75,235,Utah,2,True,DEF,Devin Lloyd,25,2nd Season,3234151,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,53.0,35.0,88.0
+403,DET,LB,Active,73,226,Tennessee,7,True,DEF,Jalen Reeves-Maybin,28,7th Season,1750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,3,0.0,0.3,7.0,6.0,13.0
+404,LV,RB,Active,71,220,Mississippi,11,True,OFF,Brandon Bolden,33,11th Season,2505000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+405,PHI,LB,Active,74,231,Michigan State,0,True,DEF,Ben VanSumeren,23,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+406,CHI,DE,Active,76,280,Florida State,7,True,DEF,DeMarcus Walker,29,7th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,8.0,19.0
+407,MIA,S,Active,73,190,Texas,4,True,DEF,Brandon Jones,25,4th Season,1218273,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,6.0,19.0
+408,MIN,CB,Active,71,205,Georgia Southern,0,True,DEF,NaJee Thompson,23,Rookie,898333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+409,TEN,DT,Active,75,316,Iowa,7,True,DEF,Jaleel Johnson,29,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,6.0,13.0
+410,IND,CB,Active,72,199,Alabama,5,True,DEF,Tony Brown,28,5th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,2.0,10.0
+411,BUF,CB,Active,72,206,Jacksonville State,6,True,DEF,Siran Neal,29,6th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,3.0,12.0
+412,WAS,DT,Active,75,320,Alabama,6,True,DEF,Daron Payne,26,6th Season,22500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,16.0,41.0
+413,PHI,LB,Active,73,240,Temple,7,True,DEF,Haason Reddick,29,7th Season,15000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,7.0,29.0
+414,HOU,CB,Active,71,195,Texas,5,True,DEF,Kris Boyd,27,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+415,ATL,CB,Active,71,175,Tusculum College,2,True,DEF,Dee Alford,26,2nd Season,856833,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,15.0,40.0
+416,CLE,DE,Active,77,267,Alabama-Birmingham,2,True,DEF,Alex Wright,23,2nd Season,1323394,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,8.0,12.0
+417,SEA,OLB,Active,75,272,Michigan,9,True,DEF,Frank Clark,30,9th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,4.0,8.0
+418,WAS,CB,Active,73,197,Penn State,2,True,DEF,Tariq Castro-Fields,24,2nd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+419,BUF,DE,Active,75,265,Clemson,8,True,DEF,Shaq Lawson,29,8th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,3.0,10.0
+420,SEA,CB,Active,70,185,Oklahoma,3,True,DEF,Tre Brown,26,3rd Season,1030166,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,3.0,25.0
+421,WAS,CB,Active,69,190,Southern,6,True,DEF,Danny Johnson,28,6th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,4.0,17.0
+422,SF,DL,Active,76,266,Ohio State,5,True,DEF,Nick Bosa,26,5th Season,34000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,15.0,39.0
+423,NO,CB,Active,73,199,Tennessee,2,True,DEF,Alontae Taylor,25,2nd Season,1801175,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,40.0,12.0,52.0
+424,MIA,LB,Active,76,242,Wisconsin,5,True,DEF,Andrew Van Ginkel,28,5th Season,2650000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,18.0,47.0
+425,JAX,OLB,Active,75,275,Illinois,7,True,DEF,Dawuane Smoot,28,7th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+426,ATL,OLB,Active,77,252,Georgia,6,True,DEF,Lorenzo Carter,28,6th Season,4500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,5.0,20.0
+427,ATL,CB,Active,75,200,Oklahoma State,6,True,DEF,Tre Flowers,28,6th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,5.0,19.0
+428,WAS,LB,Active,74,237,Utah,5,True,DEF,Cody Barton,27,5th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,36.0,78.0
+429,NYG,S,Active,72,201,Alabama,4,True,DEF,Xavier McKinney,25,4th Season,2097762,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,61.0,25.0,86.0
+430,LAR,DB,Active,73,201,UCLA,2,True,DEF,Quentin Lake,24,2nd Season,948004,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,5.0,33.0
+431,NO,LB,Active,75,225,Wisconsin,4,True,DEF,Zack Baun,26,4th Season,1202797,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,9.0,20.0
+432,LV,LB,Active,75,223,Virginia Tech,3,True,DEF,Divine Deablo,25,3rd Season,1245208,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,29.0,70.0
+433,DET,DL,Active,75,250,Missouri,7,True,DEF,Charles Harris,28,7th Season,6500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,3.0,13.0
+434,DEN,ILB,Active,75,235,Wake Forest,4,True,DEF,Justin Strnad,27,4th Season,883193,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+435,DEN,OLB,Active,74,265,Central Michigan,0,True,DEF,Thomas Incoom,24,Rookie,905000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+436,TB,DL,Active,78,283,Houston,2,True,DEF,Logan Hall,23,2nd Season,2329114,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,5.0,11.0
+437,NYJ,DL,Active,76,291,Maryland,8,True,DEF,Quinton Jefferson,30,8th Season,3600000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,19.0,31.0
+438,MIN,DL,Active,76,338,Brigham Young,3,True,DEF,Khyiris Tonga,27,3rd Season,825000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+439,CIN,LB,Active,75,250,North Carolina State,5,True,DEF,Germaine Pratt,27,5th Season,6750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,51.0,38.0,89.0
+440,IND,CB,Active,73,190,Georgia Southern,1,True,DEF,Darrell Baker Jr.,25,1st Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,6.0,28.0
+441,MIN,OLB,Active,77,263,LSU,9,True,DEF,Danielle Hunter,29,9th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,18.0,60.0
+442,TB,LB,Active,72,235,Auburn,3,True,DEF,K.J. Britt,24,3rd Season,936574,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,3.0,10.0
+443,ATL,DL,Injured Reserve,72,305,Clemson,9,True,DEF,Grady Jarrett,30,9th Season,16823333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,14.0,23.0
+444,HOU,LB,Active,73,235,Illinois,2,True,DEF,Jake Hansen,25,2nd Season,855833,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+445,ARI,S,Active,70,195,Washington,7,True,DEF,Budda Baker,27,7th Season,14750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,38.0,20.0,58.0
+446,LAC,LB,Injured Reserve,74,227,Clemson,4,True,DEF,Tanner Muse,27,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+447,SF,LB,Active,75,230,Brigham Young,6,True,DEF,Fred Warner,27,6th Season,19045000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,63.0,36.0,99.0
+448,CHI,DT,Active,76,300,South Carolina,0,True,DEF,Zacch Pickens,23,Rookie,1440948,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,9.0,16.0
+449,NE,DB,Active,70,185,Auburn,8,True,DEF,Jonathan Jones,30,8th Season,9500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,6.0,35.0
+450,LAC,S,Active,73,205,James Madison,7,True,DEF,Dean Marlowe,31,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,6.0,37.0
+451,TB,OLB,Active,74,250,Colorado State,10,True,DEF,Shaquil Barrett,31,10th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,13.0,42.0
+452,PIT,DT,Active,79,293,Wisconsin,3,True,DEF,Isaiahh Loudermilk,26,3rd Season,950072,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,8.0,14.0
+453,WAS,CB,Active,73,205,Oklahoma State,2,True,DEF,Christian Holmes,26,2nd Season,938470,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+454,LAC,DL,Active,75,275,Colorado State-Pueblo,7,True,DEF,Morgan Fox,29,7th Season,3625000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,2.0,10.0
+455,NO,LB,Active,75,242,Ohio State,3,True,DEF,Pete Werner,24,3rd Season,1421170,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,43.0,24.0,67.0
+456,CIN,DE,Active,77,265,Ohio State,6,True,DEF,Sam Hubbard,28,6th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,16.0,44.0
+457,ARI,ILB,Active,74,214,Washington,6,True,DEF,Ezekiel Turner,27,6th Season,2000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,2,0.0,0.2,8.0,10.0,18.0
+458,ARI,DT,Active,76,286,West Virginia,0,True,DEF,Dante Stills,24,Rookie,993334,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,24.0,39.0
+459,TEN,CB,Active,71,190,Auburn,2,True,DEF,Roger McCreary,23,2nd Season,2291402,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,16.0,49.0
+460,SEA,LB,Active,76,267,Tennessee,3,True,DEF,Darrell Taylor,26,3rd Season,1691127,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,7.0,19.0
+461,BUF,CB,Active,71,180,Pittsburgh,4,True,DEF,Dane Jackson,27,4th Season,2010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,5.0,36.0
+462,ARI,DT,Injured Reserve,75,305,Clemson,7,True,DEF,Carlos Watkins,30,7th Season,1670000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,3.0,7.0
+463,NO,DE,Active,77,265,Notre Dame,0,True,DEF,Isaiah Foskey,23,Rookie,2183680,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,5.0,10.0
+464,WAS,S,Injured Reserve,71,200,South Alabama,5,True,DEF,Jeremy Reaves,27,5th Season,2627000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+465,BAL,LB,Active,75,259,Ohio State,4,True,DEF,Malik Harrison,25,4th Season,1124851,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+466,LV,LB,Active,74,228,Florida,0,True,DEF,Amari Burney,23,Rookie,1001279,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+467,JAX,LB,Active,75,239,Wyoming,2,True,DEF,Chad Muma,24,2nd Season,1356527,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,7.0,15.0
+468,SEA,LB,Active,76,261,Minnesota,2,True,DEF,Boye Mafe,25,2nd Season,2140563,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,12.0,36.0
+469,HOU,S,Injured Reserve,71,199,Minnesota,8,True,DEF,Eric Murray,29,8th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+470,PHI,DT,Active,74,307,USC,3,True,DEF,Marlon Tuipulotu,24,3rd Season,918979,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+471,NYJ,S,Active,73,202,California,4,True,DEF,Ashtyn Davis,27,4th Season,1229346,0.0,0,0.0,0.0,0,0.0,0.0,0.0,4,0.0,0.3,13.0,7.0,20.0
+472,TB,DL,Active,72,280,Pittsburgh,0,True,DEF,Calijah Kancey,22,Rookie,3623369,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,5.0,16.0
+473,CLE,LB,Active,72,230,Houston,6,True,DEF,Matthew Adams,28,6th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,4.0,7.0
+474,IND,LB,Active,72,225,San Diego State,1,True,DEF,Segun Olubi,24,1st Season,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,5.0,15.0
+475,IND,S,Active,70,208,Southern Methodist,2,True,DEF,Trevor Denbow,25,2nd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+476,ARI,CB,Active,70,192,Syracuse,0,True,DEF,Garrett Williams,22,Rookie,1408733,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,3.0,18.0
+477,LAC,DL,Active,76,320,UCLA,2,True,DEF,Otito Ogbonnia,23,2nd Season,994720,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,6.0,11.0
+478,BAL,ILB,Active,73,236,Georgia,6,True,DEF,Roquan Smith,26,6th Season,20000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,70.0,56.0,126.0
+479,ARI,OLB,Active,76,260,Tulsa,3,True,DEF,Zaven Collins,24,3rd Season,3672564,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,9.0,31.0
+480,BAL,DB,Active,73,215,Southern Methodist,3,True,DEF,Brandon Stephens,25,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,13.0,55.0
+481,GB,LB,Active,75,240,Iowa,4,True,DEF,Kristian Welch,25,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+482,ATL,CB,Active,73,202,Ohio State,4,True,DEF,Jeff Okudah,24,4th Season,8382136,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,10.0,41.0
+484,TB,NT,Active,76,347,Washington,6,True,DEF,Vita Vea,28,6th Season,17750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,9.0,33.0
+485,HOU,DE,Active,75,263,Florida,4,True,DEF,Jonathan Greenard,26,4th Season,1146056,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,11.0,40.0
+486,CHI,CB,Active,72,207,Minnesota,0,True,DEF,Terell Smith,24,Rookie,1028971,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,7.0,30.0
+487,MIA,CB,Active,73,208,Florida State,8,True,DEF,Jalen Ramsey,29,8th Season,18333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,1.0,10.0
+488,LV,CB,Active,71,180,Arizona State,2,True,DEF,Jack Jones,25,2nd Season,1101746,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,4.0,17.0
+489,KC,LB,Active,75,250,Wisconsin,2,True,DEF,Leo Chenal,23,2nd Season,1261227,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,30.0,16.0,46.0
+490,BUF,DE,Active,75,240,Georgia,8,True,DEF,Leonard Floyd,31,8th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,10.0,25.0
+491,LAC,S,Active,73,208,California,4,True,DEF,Jaylinn Hawkins,26,4th Season,990479,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,4.0,6.0
+492,WAS,LB,Active,74,240,Texas State,9,True,DEF,David Mayo,30,9th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,11.0,39.0
+493,DET,DL,Active,73,335,Mississippi,3,True,DEF,Benito Jones,26,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,8.0,17.0
+494,SF,DL,Active,74,310,Central Florida,2,True,DEF,Kalia Davis,25,2nd Season,948004,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+495,GB,WR,Active,76,208,North Dakota State,2,True,OFF,Christian Watson,24,2nd Season,2310258,0.0,0,0.0,0.0,422,15.1,5.0,46.9,11,0.0,1.2,1.0,0.0,1.0
+496,ATL,ILB,Active,72,240,North Carolina,6,True,DEF,Andre Smith,26,6th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,0.0,3.0
+497,PIT,LB,Active,71,235,Mississippi,2,True,DEF,Mark Robinson,24,2nd Season,943089,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+498,LAR,OLB,Active,74,250,Tennessee,0,True,DEF,Byron Young,25,Rookie,1389167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,16.0,50.0
+499,PIT,S,Active,73,207,Alabama,6,True,DEF,Minkah Fitzpatrick,27,6th Season,18403059,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,43.0,21.0,64.0
+500,IND,DE,Active,78,286,Vanderbilt,3,True,DEF,Dayo Odeyingbo,24,3rd Season,1544381,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,11.0,30.0
+501,TEN,S,Active,73,215,Miami (OH),1,True,DEF,Mike Brown,24,1st Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+502,PHI,DE,Active,77,265,Florida State,6,True,DEF,Josh Sweat,26,6th Season,13333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,11.0,32.0
+503,SF,CB,Active,72,190,South Alabama,0,True,DEF,Darrell Luter Jr.,23,Rookie,1038378,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+504,DEN,S,Active,71,200,Oklahoma,2,True,DEF,Delarrin Turner-Yell,24,2nd Season,998264,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,7.0,32.0
+505,NYG,ILB,Active,74,235,Stanford,5,True,DEF,Bobby Okereke,27,5th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,70.0,43.0,113.0
+506,CHI,DL,Active,73,311,Baylor,7,True,DEF,Andrew Billings,28,7th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,12.0,22.0
+507,ATL,OLB,Active,75,256,Penn State,2,True,DEF,Arnold Ebiketie,24,2nd Season,2204672,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,5.0,18.0
+508,BUF,DT,Injured Reserve,76,320,Penn State,10,True,DEF,DaQuan Jones,31,10th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,4.0,10.0
+509,MIA,CB,Active,73,203,Baylor,8,True,DEF,Xavien Howard,30,8th Season,18000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,7.0,38.0
+510,CAR,CB,Injured Reserve,70,180,Nebraska,2,True,DEF,Dicaprio Bootle,26,2nd Season,997500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,0.0,14.0
+511,NYJ,LB,Active,74,231,Alabama,9,True,DEF,C.J. Mosley,31,9th Season,17000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,64.0,55.0,119.0
+512,GB,CB,Active,72,193,Central Arkansas,3,True,DEF,Robert Rochell,25,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+513,CLE,CB,Active,73,195,Western Kentucky,0,True,DEF,Kahlef Hailassie,23,Rookie,901667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+514,PHI,CB,Active,71,194,Ohio State,10,True,DEF,Bradley Roby,31,10th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,1.0,12.0
+515,NYJ,LB,Active,74,216,Auburn,3,True,DEF,Jamien Sherwood,23,3rd Season,958714,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,13.0,30.0
+516,DEN,DL,Active,77,302,Rice,1,True,DEF,Elijah Garcia,25,1st Season,853333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,3.0,4.0
+517,DAL,CB,Active,72,197,Fresno State,2,True,DEF,DaRon Bland,24,2nd Season,991197,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,13.0,54.0
+518,TB,S,Active,75,200,Southern Illinois,4,True,DEF,Ryan Neal,27,4th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,23.0,67.0
+519,LV,CB,Active,69,183,Louisiana Tech,4,True,DEF,Amik Robertson,25,4th Season,947350,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,5.0,27.0
+520,HOU,DT,Active,74,300,Notre Dame,2,True,DEF,Kurt Hinish,24,2nd Season,861667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,6.0,13.0
+521,DET,DL,Active,77,285,Charleston,5,True,DEF,John Cominsky,28,5th Season,4250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,12.0,20.0
+522,CHI,DB,Active,72,200,Washington,2,True,DEF,Kyler Gordon,24,2nd Season,2170732,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,12.0,40.0
+523,HOU,LB,Active,73,237,Minnesota,5,True,DEF,Blake Cashman,27,5th Season,705773,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,48.0,36.0,84.0
+524,JAX,CB,Active,72,190,Ouachita Baptist,2,True,DEF,Gregory Junior,24,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+525,DEN,ILB,Active,74,236,Iowa,6,True,DEF,Josey Jewell,28,6th Season,5500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,38.0,31.0,69.0
+526,GB,CB,Active,70,196,Louisville,6,True,DEF,Jaire Alexander,26,6th Season,21000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,4.0,22.0
+527,DAL,S,Active,76,215,Clemson,8,True,DEF,Jayron Kearse,29,8th Season,5000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,18.0,50.0
+528,TEN,OLB,Active,77,240,LSU,6,True,DEF,Arden Key,27,6th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,12.0,20.0
+529,NYJ,LB,Active,74,233,North Carolina,3,True,DEF,Chazz Surratt,26,3rd Season,942500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+530,ATL,ILB,Injured Reserve,76,235,Montana State,2,True,DEF,Troy Andersen,24,2nd Season,1525893,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,12.0,19.0
+531,SF,DL,Injured Reserve,76,273,USC,2,True,DEF,Drake Jackson,22,2nd Season,1473098,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,3.0,7.0
+532,NO,DT,Active,77,305,Clemson,0,True,DEF,Bryan Bresee,22,Rookie,3065890,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,9.0,18.0
+533,PHI,CB,Active,74,188,Alabama,0,True,DEF,Eli Ricks,22,Rookie,901667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,4.0,11.0
+534,DEN,ILB,Active,74,240,Montana State,5,True,DEF,Alex Singleton,30,5th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,71.0,51.0,122.0
+535,CHI,LB,Active,77,250,Virginia Tech,6,True,DEF,Tremaine Edmunds,25,6th Season,18000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,45.0,32.0,77.0
+536,MIN,S,Active,74,211,Notre Dame,12,True,DEF,Harrison Smith,34,12th Season,16000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,46.0,27.0,73.0
+537,LAC,LB,Active,75,225,Baylor,3,True,DEF,Blake Lynch,26,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+538,NE,DL,Active,75,330,LSU,7,True,DEF,Davon Godchaux,29,7th Season,10400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,28.0,50.0
+539,CIN,DT,Active,75,305,USC,3,True,DEF,Jay Tufele,24,3rd Season,1076422,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+540,NYJ,LB,Active,71,225,Murray State,5,True,DEF,Quincy Williams,27,5th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,73.0,32.0,105.0
+541,DAL,LB,Active,75,240,LSU,2,True,DEF,Damone Clark,23,2nd Season,975638,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,29.0,79.0
+542,MIA,LB,Active,75,245,California,1,True,DEF,Cameron Goode,25,1st Season,832500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+543,PIT,LB,Injured Reserve,73,227,LSU,9,True,DEF,Kwon Alexander,29,9th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,9.0,41.0
+544,LAR,DB,Active,74,195,Colorado,7,True,DEF,Ahkello Witherspoon,28,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,3.0,31.0
+545,PHI,CB,Active,74,207,Georgia,0,True,DEF,Kelee Ringo,21,Rookie,1165231,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+546,TEN,DT,Active,74,304,Florida International,4,True,DEF,Teair Tart,26,4th Season,4304000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,6.0,20.0
+547,DAL,CB,Active,76,185,Oregon State,3,True,DEF,Nahshon Wright,25,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+548,LAC,DB,Active,70,190,Wake Forest,4,True,DEF,Essang Bassey,25,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,7.0,17.0
+549,PIT,CB,Active,74,185,Florida Atlantic,4,True,DEF,James Pierre,27,4th Season,1300000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+550,NO,DT,Active,72,324,Western Illinois,5,True,DEF,Khalen Saunders,27,5th Season,4100000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,22.0,38.0
+551,NYJ,S,Active,72,205,Illinois,2,True,DEF,Tony Adams,24,2nd Season,856667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,19.0,60.0
+552,CIN,CB,Active,72,202,Colorado,7,True,DEF,Chidobe Awuzie,28,7th Season,7250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,10.0,39.0
+553,NYG,DL,Active,77,315,Oregon,0,True,DEF,Jordon Riley,25,Rookie,980942,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+554,SEA,CB,Active,73,193,Cincinnati,2,True,DEF,Coby Bryant,24,2nd Season,1116951,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,2.0,12.0
+555,HOU,CB,Active,72,190,LSU,2,True,DEF,Derek Stingley Jr.,22,2nd Season,8664378,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,5.0,21.0
+556,BUF,LB,Injured Reserve,72,223,Boston College,7,True,DEF,Matt Milano,29,7th Season,14165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,12.0,30.0
+557,BAL,DT,Active,76,338,Connecticut,2,True,DEF,Travis Jones,24,2nd Season,1325491,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,11.0,25.0
+558,ARI,DL,Active,76,282,Georgia,3,True,DEF,Jonathan Ledbetter,26,3rd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,20.0,41.0
+559,CAR,CB,Active,70,180,Oregon,8,True,DEF,Troy Hill,32,8th Season,1265000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,15.0,36.0
+560,NYJ,LB,Active,77,262,Florida State,2,True,DEF,Jermaine Johnson,24,2nd Season,3271861,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,16.0,41.0
+561,NO,CB,Active,73,192,Stanford,3,True,DEF,Paulson Adebo,24,3rd Season,1260090,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,11.0,48.0
+562,LV,DE,Active,77,260,Florida State,3,True,DEF,Janarius Robinson,25,3rd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+563,HOU,S,Active,72,218,Penn State,9,True,DEF,Adrian Amos,30,9th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,4.0,23.0
+564,TEN,S,Active,73,217,Virginia Tech,6,True,DEF,Terrell Edmunds,26,6th Season,2000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,10.0,39.0
+565,ATL,S,Active,73,200,Wake Forest,6,True,DEF,Jessie Bates III,26,6th Season,16005000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,60.0,32.0,92.0
+566,SEA,DE,Active,74,290,Rice,3,True,DEF,Myles Adams,25,3rd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+567,LAR,LB,Active,73,235,Iowa State,2,True,DEF,Jake Hummel,24,2nd Season,855000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+568,HOU,DT,Active,73,308,Nebraska,3,True,DEF,Khalil Davis,27,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,11.0,19.0
+569,NYG,OLB,Active,75,240,Georgia,3,True,DEF,Azeez Ojulari,23,3rd Season,1693727,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,3.0,4.0
+570,WAS,LB,Active,75,234,Kentucky,3,True,DEF,Jamin Davis,25,3rd Season,3448544,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,39.0,89.0
+571,IND,DT,Active,79,295,Oregon,8,True,DEF,DeForest Buckner,29,8th Season,21000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,23.0,56.0
+572,IND,DE,Active,75,267,Ohio State,6,True,DEF,Tyquan Lewis,28,6th Season,2100000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,6.0,19.0
+573,BAL,DT,Active,74,315,Texas Tech,4,True,DEF,Broderick Washington,27,4th Season,5250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,6.0,13.0
+574,NE,CB,Active,73,195,Ohio State,3,True,DEF,Shaun Wade,25,3rd Season,949391,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,2.0,17.0
+575,CAR,LB,Active,74,220,Eastern Illinois,8,True,DEF,Kamu Grugier-Hill,29,8th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,16.0,42.0
+576,MIA,S,Active,73,210,Oregon,3,True,DEF,Jevon Holland,23,3rd Season,2179103,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,49.0,21.0,70.0
+577,NO,LB,Active,73,241,TCU,5,True,DEF,Ty Summers,27,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+578,DAL,DT,Active,74,302,Oklahoma,4,True,DEF,Neville Gallimore,26,4th Season,1170112,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,5.0,10.0
+579,NO,CB,Active,73,188,Boston College,6,True,DEF,Isaac Yiadom,27,6th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,7.0,24.0
+580,TEN,CB,Active,71,181,Rutgers,2,True,DEF,Tre Avery,26,2nd Season,853333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,2.0,16.0
+581,MIN,CB,Active,72,194,Clemson,2,True,DEF,Andrew Booth Jr.,23,2nd Season,2076456,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,1.0,5.0
+582,WAS,DE,Active,77,254,Stanford,4,True,DEF,Casey Toohill,27,4th Season,846758,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+583,LAC,CB,Active,70,180,Florida State,3,True,DEF,Asante Samuel Jr.,24,3rd Season,1805737,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,44.0,5.0,49.0
+584,BAL,S,Injured Reserve,68,177,TCU,3,True,DEF,Ar'Darius Washington,24,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,5.0,11.0
+585,HOU,LB,Active,71,240,Miami (FL),9,True,DEF,Denzel Perryman,31,9th Season,2600000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,19.0,47.0
+586,CHI,SS,Active,74,208,Memphis,0,True,DEF,Quindell Johnson,24,Rookie,908333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+587,IND,CB,Active,75,215,Michigan State,0,True,DEF,Ameer Speed,24,Rookie,993334,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+588,MIN,S,Active,72,200,California,3,True,DEF,Camryn Bynum,25,3rd Season,1049453,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,68.0,31.0,99.0
+589,LV,DT,Active,75,292,Alabama,0,True,DEF,Byron Young,23,Rookie,1389167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,34.0,16.0,50.0
+590,TB,DB,Active,72,190,Kansas State,0,True,DEF,Josh Hayes,24,Rookie,1011093,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,5.0,13.0
+591,JAX,S,Active,75,195,Texas A&M,0,True,DEF,Antonio Johnson,22,Rookie,1035458,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+592,CAR,DT,Active,73,295,Clemson,5,True,DEF,DeShawn Williams,30,5th Season,1750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,13.0,24.0
+593,ARI,DL,Injured Reserve,74,291,TCU,5,True,DEF,L.J. Collier,28,5th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+594,JAX,DL,Active,76,290,Georgia Tech,8,True,DEF,Adam Gotsis,31,8th Season,1440000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,7.0,21.0
+595,LAR,DT,Active,74,297,North Carolina State,4,True,DEF,Larrell Murchison,26,4th Season,952500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,8.0,12.0
+596,PIT,DT,Active,77,295,Ohio State,13,True,DEF,Cameron Heyward,34,13th Season,16400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,20.0,5.0,25.0
+597,SF,DL,Active,74,305,South Carolina State,8,True,DEF,Javon Hargrave,30,8th Season,21000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,17.0,39.0
+598,GB,DL,Active,76,273,Auburn,0,True,DEF,Colby Wooden,22,Rookie,1151982,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,5.0,11.0
+599,ATL,DL,Active,78,272,Ohio State,0,True,DEF,Zach Harrison,22,Rookie,1392112,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,13.0,21.0
+600,CLE,LB,Active,76,225,Utah,0,True,DEF,Mohamoud Diabate,22,Rookie,906667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+601,JAX,CB,Active,69,187,Alabama-Birmingham,6,True,DEF,Darious Williams,30,6th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,7.0,40.0
+602,NE,LB,Active,74,244,North Dakota State,6,True,DEF,Chris Board,28,6th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,3.0,7.0
+603,TEN,CB,Active,70,188,Baldwin Wallace,0,True,DEF,Anthony Kendall,24,Rookie,898333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,4.0,8.0
+604,SEA,LB,Active,71,234,Michigan,5,True,DEF,Devin Bush,25,5th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,4.0,7.0
+605,WAS,LB,Active,72,220,Michigan,4,True,DEF,Khaleke Hudson,26,4th Season,1500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,8.0,22.0
+606,TB,LB,Active,72,230,Pittsburgh,0,True,DEF,SirVocea Dennis,23,Rookie,1039331,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,2.0,11.0
+607,CHI,LB,Active,73,242,Wisconsin,5,True,DEF,T.J. Edwards,27,5th Season,6500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,73.0,54.0,127.0
+608,PHI,S,Active,73,203,Middle Tennessee State,2,True,DEF,Reed Blankenship,24,2nd Season,855000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,56.0,25.0,81.0
+609,NYJ,S,Active,73,197,LSU,0,True,DEF,Jarrick Bernard-Converse,23,Rookie,1001278,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+610,DEN,S,Suspended,70,183,Alabama,14,True,DEF,Kareem Jackson,35,14th Season,2667500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,36.0,15.0,51.0
+611,KC,LB,Active,71,237,Missouri,3,True,DEF,Nick Bolton,23,3rd Season,1458508,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,13.0,28.0
+612,NO,LB,Active,74,248,Arkansas State,12,True,DEF,Demario Davis,34,12th Season,9000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,52.0,31.0,83.0
+613,CLE,S,Active,73,209,Ohio State,0,True,DEF,Ronnie Hickman,22,Rookie,905000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,1.0,5.0
+614,DET,LB,Active,77,239,Notre Dame,4,True,DEF,Julian Okwara,25,4th Season,1231703,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+615,DAL,LB,Injured Reserve,76,256,Boise State,6,True,DEF,Leighton Vander Esch,27,6th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,13.0,30.0
+616,LAC,DL,Active,76,296,Boise State,0,True,DEF,Scott Matlock,23,Rookie,1003074,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+617,WAS,S,Injured Reserve,71,200,Cincinnati,3,True,DEF,Darrick Forrest,24,3rd Season,947768,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,11.0,29.0
+618,JAX,DL,Active,76,318,Auburn,9,True,DEF,Angelo Blackson,31,9th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,4.0,11.0
+619,ARI,S,Active,73,201,Virginia,2,True,DEF,Joey Blount,25,2nd Season,927500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+620,GB,S,Active,74,206,Brigham Young,2,True,DEF,Zayne Anderson,26,2nd Season,997500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+622,SF,S,Injured Reserve,72,200,USC,3,True,DEF,Talanoa Hufanga,24,3rd Season,930038,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,39.0,13.0,52.0
+623,GB,LB,Active,76,258,South Carolina,2,True,DEF,Kingsley Enagbare,23,2nd Season,975638,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,8.0,29.0
+624,PIT,S,Active,71,174,San Diego State,7,True,DEF,Damontae Kazee,30,7th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,42.0,14.0,56.0
+625,BAL,DB,Active,73,210,West Virginia,8,True,DEF,Daryl Worley,28,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,3.0,9.0
+626,BUF,DT,Active,71,310,Texas,6,True,DEF,Poona Ford,28,6th Season,2250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,4.0,7.0
+627,IND,DT,Active,76,314,Albany State (GA),7,True,DEF,Grover Stewart,30,7th Season,10250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,7.0,20.0
+628,PIT,LB,Active,76,252,Wisconsin,7,True,DEF,T.J. Watt,29,7th Season,28002750,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,15.0,52.0
+629,LAC,OLB,Active,75,266,USC,0,True,DEF,Tuli Tuipulotu,21,Rookie,1642846,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,27.0,9.0,36.0
+630,PIT,DL,Active,76,309,Wisconsin,0,True,DEF,Keeanu Benton,22,Rookie,1833281,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,17.0,31.0
+631,HOU,S,Active,73,203,William & Mary,8,True,DEF,DeAndre Houston-Carson,30,8th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,8.0,22.0
+632,LAR,ILB,Active,75,245,Delaware,5,True,DEF,Troy Reeder,29,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,6.0,14.0
+633,BAL,CB,Active,69,190,Memphis,7,True,DEF,Arthur Maulet,30,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,4.0,21.0
+634,MIA,DT,Active,79,325,Alabama,4,True,DEF,Raekwon Davis,26,4th Season,1413875,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,10.0,21.0
+635,PHI,S,Active,70,211,Illinois,0,True,DEF,Sydney Brown,23,Rookie,1436110,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,4.0,25.0
+636,GB,DL,Active,75,304,Georgia,2,True,DEF,Devonte Wyatt,25,2nd Season,3215296,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,13.0,23.0
+637,LAR,DB,Injured Reserve,68,183,Kansas State,5,True,DEF,Duke Shelley,27,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,1.0,8.0
+638,CAR,DT,Active,76,290,Alabama,1,True,DEF,LaBryan Ray,20,1st Season,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,8.0,12.0
+639,CIN,CB,Injured Reserve,71,202,Nebraska,2,True,DEF,Cam Taylor-Britt,24,2nd Season,1488182,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,37.0,9.0,46.0
+640,ARI,S,Active,72,197,San Jose State,3,True,DEF,Andre Chachere,27,3rd Season,1002500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,4.0,20.0
+641,NE,DB,Active,74,205,Texas Tech,11,True,DEF,Cody Davis,34,11th Season,2200000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+642,GB,S,Active,72,205,Iowa State,0,True,DEF,Anthony Johnson Jr.,24,Rookie,980941,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,4.0,15.0
+643,IND,DE,Active,74,242,Temple,6,True,DEF,Jake Martin,28,6th Season,1197000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,1.0,6.0
+644,TB,DL,Active,78,281,Michigan State,11,True,DEF,William Gholston,32,11th Season,2667500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,6.0,14.0
+645,CIN,CB,Active,69,184,Mississippi,7,True,DEF,Mike Hilton,29,7th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,49.0,14.0,63.0
+646,BUF,S,Active,72,200,Pittsburgh,3,True,DEF,Damar Hamlin,25,3rd Season,910119,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+647,NE,DB,Active,71,208,Texas,9,True,DEF,Adrian Phillips,31,9th Season,4250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,7.0,17.0
+648,BAL,CB,Active,72,201,Alabama,7,True,DEF,Marlon Humphrey,27,7th Season,19500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,2.0,14.0
+649,PIT,CB,Active,74,198,South Carolina,0,True,DEF,Darius Rush,23,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+650,HOU,DE,Active,75,259,Tennessee,7,True,DEF,Derek Barnett,27,7th Season,5070000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+651,PHI,LB,Injured Reserve,71,231,Georgia,2,True,DEF,Nakobe Dean,23,2nd Season,1301160,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,8.0,30.0
+652,NO,DE,Active,76,277,Tennessee,4,True,DEF,Kyle Phillips,26,4th Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+653,GB,DL,Active,75,314,UCLA,8,True,DEF,Kenny Clark,28,8th Season,17500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,19.0,33.0
+654,SEA,DE,Injured Reserve,78,295,Michigan,0,True,DEF,Mike Morris,22,Rookie,1043019,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+655,DET,DL,Active,75,274,Kentucky,2,True,DEF,Josh Paschal,24,2nd Season,1933913,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,5.0,18.0
+656,PHI,CB,Active,71,190,Alabama,2,True,DEF,Josh Jobe,25,2nd Season,856667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,18.0,2.0,20.0
+657,KC,DT,Active,78,310,Mississippi State,8,True,DEF,Chris Jones,29,8th Season,19500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,9.0,24.0
+658,NYJ,DL,Active,77,270,Texas A&M,2,True,DEF,Micheal Clemons,26,2nd Season,1106024,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,8.0,19.0
+659,DET,DL,Active,79,268,Michigan,2,True,DEF,Aidan Hutchinson,23,2nd Season,8928347,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,13.0,36.0
+660,CIN,DT,Active,75,340,Colorado,6,True,DEF,Josh Tupou,29,6th Season,1500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,6.0,8.0
+661,PIT,TE,Active,76,235,Tennessee-Martin,1,True,OFF,Rodney Williams,25,1st Season,832500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+663,SEA,CB,Active,72,187,Miami (FL),8,True,DEF,Artie Burns,28,8th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+664,MIN,DL,Injured Reserve,78,296,Northwestern,8,True,DEF,Dean Lowry,29,8th Season,4250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,10.0,14.0
+665,NE,DL,Injured Reserve,75,310,Washington State,5,True,DEF,Daniel Ekuale,29,5th Season,1700000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+666,KC,DE,Active,77,280,Texas,5,True,DEF,Charles Omenihu,26,5th Season,8000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,6.0,15.0
+667,BUF,LB,Active,73,235,Temple,8,True,DEF,Tyler Matakevich,30,8th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+668,NO,DE,Injured Reserve,78,270,Houston,3,True,DEF,Payton Turner,24,3rd Season,3131184,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+669,CHI,DB,Active,72,206,Alabama,7,True,DEF,Eddie Jackson,30,7th Season,14600000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,3.0,18.0
+670,MIN,DL,Active,75,290,Florida,8,True,DEF,Jonathan Bullard,30,8th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,19.0,35.0
+671,GB,LB,Active,76,232,Minnesota,8,True,DEF,De'Vondre Campbell,30,8th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,33.0,23.0,56.0
+672,CAR,S,Active,71,205,Ohio State,8,True,DEF,Vonn Bell,29,8th Season,7500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,30.0,17.0,47.0
+673,MIA,LB,Active,76,268,North Carolina State,6,True,DEF,Bradley Chubb,27,6th Season,22000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,20.0,52.0
+674,NYJ,LB,Active,72,236,Texas Tech,5,True,DEF,Sam Eguavoen,30,5th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,1.0,3.0
+675,LV,LB,Active,73,220,Wake Forest,2,True,DEF,Luke Masterson,25,2nd Season,856667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,9.0,22.0
+676,CAR,OLB,Injured Reserve,75,270,Georgia,13,True,DEF,Justin Houston,34,13th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,4.0,9.0
+677,JAX,S,Active,70,215,Auburn,4,True,DEF,Daniel Thomas,25,4th Season,903029,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,0.0,5.0
+678,ATL,DL,Active,75,305,Clemson,5,True,DEF,Albert Huggins,26,5th Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,5.0,9.0
+679,BUF,DT,Active,78,341,Oklahoma,9,True,DEF,Jordan Phillips,31,9th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,4.0,13.0
+680,WAS,DT,Active,75,300,Alabama,7,True,DEF,Jonathan Allen,28,7th Season,18000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,25.0,15.0,40.0
+681,ATL,S,Active,72,196,Tennessee,2,True,DEF,Micah Abernathy,26,2nd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,0.0,5.0
+682,DET,LB,Active,72,240,Purdue,3,True,DEF,Derrick Barnes,24,3rd Season,1065301,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,30.0,31.0,61.0
+683,TEN,DT,Active,73,305,Oregon State,8,True,DEF,Kyle Peko,30,8th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,10.0,20.0
+684,LAC,OLB,Injured Reserve,74,244,Duke,3,True,DEF,Chris Rumph II,25,3rd Season,1058386,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,1.0,5.0
+685,LV,DT,Active,74,315,Arizona State,0,True,DEF,Nesta Jade Silvera,23,Rookie,985176,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+686,MIN,OLB,Injured Reserve,78,265,Texas-San Antonio,6,True,DEF,Marcus Davenport,27,6th Season,13000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,4.0,7.0
+687,BUF,DE,Active,78,266,Miami (FL),3,True,DEF,Greg Rousseau,23,3rd Season,2902050,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,7.0,30.0
+688,KC,DE,Active,75,275,Georgia,3,True,DEF,Malik Herring,26,3rd Season,816667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,3.0,5.0
+689,NYG,S,Active,76,238,Clemson,4,True,DEF,Isaiah Simmons,25,4th Season,5166014,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,11.0,35.0
+690,KC,S,Active,73,207,Stanford,6,True,DEF,Justin Reid,26,6th Season,10500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,54.0,14.0,68.0
+691,LAR,DB,Active,72,204,Oklahoma State,0,True,DEF,Jason Taylor II,23,Rookie,984508,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,0.0,3.0
+692,SF,LB,Active,72,230,Arkansas,5,True,DEF,Dre Greenlaw,26,5th Season,8200000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,28.0,86.0
+693,SEA,S,Injured Reserve,69,196,New Mexico,0,True,DEF,Jerrick Reed II,23,Rookie,1003701,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,2.0,11.0
+694,CIN,OT,Active,77,312,Alabama,5,True,OFF,Jonah Williams,26,5th Season,882500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,14.0,24.0,38.0
+695,BAL,CB,Active,71,195,Temple,5,True,DEF,Rock Ya-Sin,27,5th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,0.0,6.0
+696,NYJ,S,Active,70,198,Pittsburgh,6,True,DEF,Jordan Whitehead,26,6th Season,5250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,52.0,21.0,73.0
+697,DEN,OLB,Active,75,253,Oklahoma,3,True,DEF,Ronnie Perkins,24,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+698,PIT,LB,Active,73,238,Houston,8,True,DEF,Elandon Roberts,29,8th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,54.0,32.0,86.0
+699,SF,DL,Active,76,265,Clemson,5,True,DEF,Clelin Ferrell,26,5th Season,2500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,10.0,20.0
+700,TB,DL,Injured Reserve,75,293,James Madison,1,True,DEF,Mike Greene,24,1st Season,832500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,4.0,6.0
+701,KC,DE,Active,76,255,Kansas State,0,True,DEF,Felix Anudike-Uzomah,21,Rookie,2954454,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,6.0,11.0
+702,CAR,ILB,Active,72,222,Tennessee-Chattanooga,6,True,DEF,Tae Davis,27,6th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,4.0,4.0
+703,NYG,S,Active,72,200,Houston,0,True,DEF,Gervarrius Owens,24,Rookie,979444,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,1.0,1.0
+705,ATL,OLB,Active,76,240,Western Kentucky,2,True,DEF,DeAngelo Malone,24,2nd Season,1307396,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+706,BAL,S,Active,71,210,Iowa,4,True,DEF,Geno Stone,24,4th Season,1760000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,18.0,49.0
+707,NYG,S,Active,69,196,Memphis,9,True,DEF,Bobby McCain,30,9th Season,1317500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,0.0,1.0
+708,DAL,S,Active,75,217,Georgia Tech,1,True,DEF,Juanyeh Thomas,23,1st Season,832500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,3.0,13.0
+709,MIA,LB,Injured Reserve,77,263,Miami (FL),3,True,DEF,Jaelan Phillips,24,3rd Season,3504551,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,28.0,15.0,43.0
+710,NYG,ILB,Active,75,240,Minnesota,4,True,DEF,Carter Coughlin,26,4th Season,851286,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,0.0,6.0
+711,LV,DT,Active,75,313,Delaware,6,True,DEF,Bilal Nichols,27,6th Season,5500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,19.0,17.0,36.0
+712,CAR,LB,Injured Reserve,72,230,Washington,9,True,DEF,Shaq Thompson,29,9th Season,6300000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,2.0,8.0
+713,MIN,OLB,Active,77,258,South Carolina,4,True,DEF,D.J. Wonnum,26,4th Season,1011445,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,23.0,47.0
+714,MIA,DE,Active,76,275,Oklahoma State,8,True,DEF,Emmanuel Ogbah,30,8th Season,16350000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,7.0,12.0
+715,NYG,CB,Active,70,195,UCLA,4,True,DEF,Darnay Holmes,25,4th Season,1021722,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,15.0,1.0,16.0
+716,SF,CB,Active,72,202,Colorado,6,True,DEF,Isaiah Oliver,27,6th Season,3375000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,17.0,46.0
+717,IND,S,Active,72,202,Utah,4,True,DEF,Julian Blackmon,25,4th Season,1157212,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,20.0,78.0
+718,LV,CB,Active,71,195,Maryland,0,True,DEF,Jakorian Bennett,23,Rookie,1165899,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,21.0,6.0,27.0
+719,MIA,DT,Active,78,300,Ferris State,6,True,DEF,Zach Sieler,28,6th Season,10250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,17.0,40.0
+720,CLE,LB,Active,73,235,Northwestern,7,True,DEF,Anthony Walker Jr.,28,7th Season,1232500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,20.0,19.0,39.0
+721,CLE,DT,Active,74,288,Illinois State,9,True,DEF,Shelby Harris,32,9th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,9.0,22.0
+722,KC,CB,Active,75,193,Fayetteville State,2,True,DEF,Joshua Williams,24,2nd Season,1081565,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,3.0,14.0
+723,LAR,LB,Active,74,230,South Dakota State,3,True,DEF,Christian Rozeboom,26,3rd Season,823333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,38.0,20.0,58.0
+724,CHI,CB,Active,72,196,Utah,4,True,DEF,Jaylon Johnson,24,4th Season,1617193,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,4.0,27.0
+725,BAL,OLB,Active,75,244,Brigham Young,10,True,DEF,Kyle Van Noy,32,10th Season,1400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,6.0,18.0
+726,DEN,OLB,Active,75,240,Ohio State,3,True,DEF,Baron Browning,24,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,11.0,4.0,15.0
+727,SF,DT,Active,77,319,South Carolina,4,True,DEF,Javon Kinlaw,26,4th Season,3872173,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,6.0,15.0
+728,LV,LB,Active,72,228,Oklahoma,3,True,DEF,Curtis Bolton,28,3rd Season,1010000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,1.0,4.0
+729,MIA,CB,Active,73,180,South Carolina,0,True,DEF,Cam Smith,22,Rookie,1757106,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+730,BUF,DT,Active,76,329,East Carolina,14,True,DEF,Linval Joseph,35,14th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+731,CHI,LB,Active,74,253,Oregon,0,True,DEF,Noah Sewell,21,Rookie,1041237,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,4.0,8.0
+732,CAR,S,Active,73,196,Washington,0,True,DEF,Alex Cook,24,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,4.0,9.0
+733,CAR,OLB,Active,75,252,Auburn,0,True,DEF,Eku Leota,24,Rookie,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+734,WAS,DE,Active,77,258,Louisiana-Lafayette,0,True,DEF,Andre Jones Jr.,25,Rookie,985068,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,2.0,3.0
+735,TEN,DB,Active,70,192,Washington,3,True,DEF,Elijah Molden,24,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,19.0,51.0
+736,CAR,CB,Active,72,198,Central Florida,7,True,DEF,Shaquill Griffin,28,7th Season,3500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,24.0,9.0,33.0
+737,DAL,S,Active,72,204,Texas A&M,5,True,DEF,Donovan Wilson,28,5th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,29.0,18.0,47.0
+738,TEN,DL,Active,77,285,Mississippi State,10,True,DEF,Denico Autry,33,10th Season,7166667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,15.0,38.0
+739,DAL,DE,Active,75,265,Boise State,10,True,DEF,DeMarcus Lawrence,31,10th Season,13333333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,14.0,31.0
+740,LAC,OLB,Active,75,269,Buffalo,10,True,DEF,Khalil Mack,32,10th Season,23500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,12.0,53.0
+741,BAL,S,Active,76,220,Notre Dame,2,True,DEF,Kyle Hamilton,22,2nd Season,4063771,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,12.0,62.0
+742,PIT,LB,Injured Reserve,73,240,North Carolina,5,True,DEF,Cole Holcomb,27,5th Season,6000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,31.0,23.0,54.0
+743,CIN,LB,Active,74,228,Appalachian State,4,True,DEF,Akeem Davis-Gaither,26,4th Season,1028128,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,3.0,8.0
+744,PHI,DT,Active,76,310,Mississippi State,12,True,DEF,Fletcher Cox,33,12th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,8.0,13.0,21.0
+745,DET,LB,Active,75,242,Wayne State (MI),3,True,DEF,Anthony Pittman,27,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,2.0,4.0
+746,PIT,DB,Active,73,196,San Diego State,2,True,DEF,Trenton Thompson,25,2nd Season,750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,2.0,15.0
+747,NO,S,Active,69,190,LSU,11,True,DEF,Tyrann Mathieu,31,11th Season,9433333,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,17.0,49.0
+748,CHI,CB,Active,72,204,Miami (FL),0,True,DEF,Tyrique Stevenson,23,Rookie,1612375,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,43.0,18.0,61.0
+749,TEN,LB,Active,75,242,Minnesota,1,True,DEF,Jack Gibbens,25,1st Season,705000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,50.0,31.0,81.0
+750,NE,DB,Active,72,200,LSU,8,True,DEF,Jalen Mills,29,8th Season,3750000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,17.0,13.0,30.0
+751,ARI,DT,Active,75,313,Michigan State,3,True,DEF,Naquan Jones,25,3rd Season,940000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,8.0,8.0
+752,PHI,DT,Active,75,290,Louisiana Tech,3,True,DEF,Milton Williams,24,3rd Season,1277543,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,13.0,14.0,27.0
+753,SEA,LB,Active,72,242,Utah State,12,True,DEF,Bobby Wagner,33,12th Season,5500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,67.0,60.0,127.0
+754,WAS,CB,Active,71,198,Virginia Tech,8,True,DEF,Kendall Fuller,28,8th Season,10000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,17.0,64.0
+755,NYJ,CB,Active,73,200,Illinois,7,True,DEF,Justin Hardee,29,7th Season,2250000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,2.0,0.0,2.0
+756,KC,S,Injured Reserve,73,206,Cincinnati,2,True,DEF,Bryan Cook,24,2nd Season,1461785,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,26.0,16.0,42.0
+757,BUF,LB,Active,73,224,Baylor,2,True,DEF,Terrel Bernard,24,2nd Season,1260748,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,61.0,43.0,104.0
+758,KC,LB,Active,74,234,Notre Dame,5,True,DEF,Drue Tranquill,28,5th Season,3000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,51.0,22.0,73.0
+759,CHI,CB,Active,71,190,Mississippi,2,True,DEF,Jaylon Jones,26,2nd Season,854167,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,5.0,17.0
+760,BUF,CB,Active,74,209,West Virginia,7,True,DEF,Rasul Douglas,28,7th Season,7000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,40.0,9.0,49.0
+761,WAS,DE,Injured Reserve,78,265,None,6,True,DEF,Efe Obada,31,6th Season,2000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0
+762,HOU,CB,Active,72,196,Toledo,4,True,DEF,Ka'dar Hollman,29,4th Season,997500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,4.0,9.0
+763,BUF,S,Active,72,197,Iowa,11,True,DEF,Micah Hyde,32,11th Season,9625000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,32.0,12.0,44.0
+764,MIA,LB,Injured Reserve,74,225,Ohio State,6,True,DEF,Jerome Baker,26,6th Season,12500000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,47.0,22.0,69.0
+765,ATL,DL,Active,75,300,Manitoba (Canada),8,True,DEF,David Onyemata,31,8th Season,11666667,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,22.0,23.0,45.0
+766,DET,CB,Active,68,185,Northern Arizona,4,True,DEF,Khalil Dorsey,25,4th Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,3.0,2.0,5.0
+767,DET,LB,Active,75,238,Florida,7,True,DEF,Alex Anzalone,29,7th Season,6100000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,58.0,29.0,87.0
+768,ATL,S,Active,73,213,Alabama,0,True,DEF,DeMarcco Hellams,23,Rookie,986575,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,9.0,7.0,16.0
+769,CHI,CB,Active,71,180,Duke,2,True,DEF,Josh Blackwell,24,2nd Season,870000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,2.0,6.0
+770,HOU,LB,Active,74,234,Marshall,9,True,DEF,Neville Hewitt,30,9th Season,1165000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,6.0,3.0,9.0
+771,MIN,S,Active,73,198,Tennessee,2,True,DEF,Theo Jackson,25,2nd Season,787500,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,10.0,7.0,17.0
+772,DAL,CB,Injured Reserve,74,195,Alabama,4,True,DEF,Trevon Diggs,26,4th Season,19400000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,4.0,0.0,4.0
+773,DET,S,Active,75,210,Syracuse,3,True,DEF,Ifeatu Melifonwu,24,3rd Season,1196463,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,5.0,2.0,7.0
+774,CHI,CB,Active,71,190,Mississippi,2,True,DEF,Jaylon Jones,26,2nd Season,988370,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,12.0,5.0,17.0
+775,MIN,CB,Active,71,178,USC,0,True,DEF,Mekhi Blackmon,24,Rookie,1326021,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,23.0,4.0,27.0
+776,NO,DE,Active,76,287,California,13,True,DEF,Cameron Jordan,34,13th Season,13958824,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,16.0,20.0,36.0
+777,TEN,LB,Injured Reserve,72,240,Northwestern,7,True,DEF,Joe Jones,29,7th Season,1080000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0,2.0,2.0
+778,DAL,DT,Active,75,337,Michigan,0,True,DEF,Mazi Smith,22,Rookie,3318674,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,7.0,3.0,10.0
+779,IND,LB,Active,76,227,Tarleton State,5,True,DEF,E.J. Speed,28,5th Season,4000000,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,41.0,14.0,55.0
